@@ -1,0 +1,47 @@
+NEAT moth pursuit
+=================
+Train a drone controller to pursue recorded moth trajectories using NEAT.
+Run these commands from the project root in PowerShell with Python 3.12.
+
+Setup
+-----
+    python -m venv .venv
+    .venv/Scripts/python.exe -m pip install -r requirements.txt
+
+Training
+--------
+    .venv/Scripts/python.exe -m script.main
+
+Models are saved in neat_models/. Settings are in config and src/config/.
+Add --generations 2 for a short run.
+
+Repeat a saved model's training settings:
+    .venv/Scripts/python.exe -m script.main --from-model "neat_models/MODEL_DIRECTORY"
+
+Replay
+------
+    .venv/Scripts/python.exe -m script.replay "neat_models/MODEL_DIRECTORY"
+
+Omit the directory to replay the newest complete model.
+
+Datasets
+--------
+Training uses moth_dataset/moth_train_dataset.npz.
+Final evaluation uses moth_dataset/moth_eval_dataset.npz.
+
+Reproduce the supplied datasets using the same original raw CSV files:
+    .venv/Scripts/python.exe -m src.tools.moth_dataset --source "PATH_TO_RAW_CSV_FOLDER" --split legacy --eval-ratio 0.16 --output-dir "dataset_reproduction" --no-plots
+
+For new datasets, use --split recording to keep each source recording entirely
+in training or evaluation. This is the default split.
+
+Sweeps and reports
+------------------
+Run the full sweep (3 baselines and 60 sensitivity runs, 100 generations each):
+    .venv/Scripts/python.exe -m script.sweeps.main
+
+Generate evaluation results and baseline flight plots:
+    .venv/Scripts/python.exe -m src.evaluation.main
+
+Outputs go to results/. Reports use the newest complete model per setting and
+seed (10, 20, 30), and require the full 100-generation sweep protocol.

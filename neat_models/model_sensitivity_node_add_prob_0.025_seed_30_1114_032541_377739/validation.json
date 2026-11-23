@@ -1,0 +1,4570 @@
+{
+  "winner": {
+    "generation": 96,
+    "genome_id": 13803,
+    "training_fitness": 98.00223541259766,
+    "catch_rate": 0.98,
+    "mean_catch_time_with_failures": 1.2237,
+    "mean_fitness": 98.70951843261719,
+    "cached": false
+  },
+  "top_models": [
+    {
+      "rank": 1,
+      "filename": "top_genome_1.pkl",
+      "generation": 96,
+      "genome_id": 13803,
+      "training_fitness": 98.00223541259766,
+      "catch_rate": 0.98,
+      "mean_catch_time_with_failures": 1.2237,
+      "mean_fitness": 98.70951843261719,
+      "cached": false
+    },
+    {
+      "rank": 2,
+      "filename": "top_genome_2.pkl",
+      "generation": 97,
+      "genome_id": 13990,
+      "training_fitness": 95.27299499511719,
+      "catch_rate": 0.98,
+      "mean_catch_time_with_failures": 1.3562999999999996,
+      "mean_fitness": 98.2627182006836,
+      "cached": false
+    },
+    {
+      "rank": 3,
+      "filename": "top_genome_3.pkl",
+      "generation": 98,
+      "genome_id": 14171,
+      "training_fitness": 98.20452880859375,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.2662,
+      "mean_fitness": 97.66232299804688,
+      "cached": false
+    },
+    {
+      "rank": 4,
+      "filename": "top_genome_4.pkl",
+      "generation": 94,
+      "genome_id": 13476,
+      "training_fitness": 97.334228515625,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.2943000000000005,
+      "mean_fitness": 97.6029281616211,
+      "cached": false
+    },
+    {
+      "rank": 5,
+      "filename": "top_genome_5.pkl",
+      "generation": 69,
+      "genome_id": 9950,
+      "training_fitness": 92.92549896240234,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.3387999999999998,
+      "mean_fitness": 97.44680786132812,
+      "cached": false
+    }
+  ],
+  "history": [
+    {
+      "generation": 0,
+      "genome_id": 77,
+      "training_fitness": 2.2814643383026123,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 0.9847250580787659,
+      "cached": false
+    },
+    {
+      "generation": 0,
+      "genome_id": 106,
+      "training_fitness": 2.2684946060180664,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.1140954494476318,
+      "cached": false
+    },
+    {
+      "generation": 0,
+      "genome_id": 93,
+      "training_fitness": 1.5428917407989502,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.0453547239303589,
+      "cached": false
+    },
+    {
+      "generation": 0,
+      "genome_id": 41,
+      "training_fitness": 1.3869138956069946,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 0.6845118999481201,
+      "cached": false
+    },
+    {
+      "generation": 0,
+      "genome_id": 29,
+      "training_fitness": 1.3193870782852173,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9760000000000004,
+      "mean_fitness": 2.1348822116851807,
+      "cached": false
+    },
+    {
+      "generation": 1,
+      "genome_id": 261,
+      "training_fitness": 3.250278949737549,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.741701602935791,
+      "cached": false
+    },
+    {
+      "generation": 1,
+      "genome_id": 290,
+      "training_fitness": 2.3943824768066406,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.581857442855835,
+      "cached": false
+    },
+    {
+      "generation": 1,
+      "genome_id": 267,
+      "training_fitness": 2.3120343685150146,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.0766745805740356,
+      "cached": false
+    },
+    {
+      "generation": 1,
+      "genome_id": 235,
+      "training_fitness": 2.155304431915283,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 0.907468318939209,
+      "cached": false
+    },
+    {
+      "generation": 1,
+      "genome_id": 170,
+      "training_fitness": 2.041123867034912,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.3817123174667358,
+      "cached": false
+    },
+    {
+      "generation": 2,
+      "genome_id": 360,
+      "training_fitness": 2.6220340728759766,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.345821738243103,
+      "cached": false
+    },
+    {
+      "generation": 2,
+      "genome_id": 307,
+      "training_fitness": 2.2674784660339355,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.2031437158584595,
+      "cached": false
+    },
+    {
+      "generation": 2,
+      "genome_id": 417,
+      "training_fitness": 2.2092161178588867,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.3300204277038574,
+      "cached": false
+    },
+    {
+      "generation": 2,
+      "genome_id": 393,
+      "training_fitness": 2.0864429473876953,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.2316150665283203,
+      "cached": false
+    },
+    {
+      "generation": 2,
+      "genome_id": 261,
+      "training_fitness": 1.989730715751648,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.741701602935791,
+      "cached": true
+    },
+    {
+      "generation": 3,
+      "genome_id": 360,
+      "training_fitness": 3.9211926460266113,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.345821738243103,
+      "cached": true
+    },
+    {
+      "generation": 3,
+      "genome_id": 495,
+      "training_fitness": 2.6786227226257324,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.2550442218780518,
+      "cached": false
+    },
+    {
+      "generation": 3,
+      "genome_id": 540,
+      "training_fitness": 2.5895702838897705,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 0.9097602367401123,
+      "cached": false
+    },
+    {
+      "generation": 3,
+      "genome_id": 551,
+      "training_fitness": 2.496983528137207,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.1852307319641113,
+      "cached": false
+    },
+    {
+      "generation": 3,
+      "genome_id": 536,
+      "training_fitness": 2.4621310234069824,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 0.9065021276473999,
+      "cached": false
+    },
+    {
+      "generation": 4,
+      "genome_id": 691,
+      "training_fitness": 4.198064804077148,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.4518009424209595,
+      "cached": false
+    },
+    {
+      "generation": 4,
+      "genome_id": 724,
+      "training_fitness": 3.601067066192627,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.3709018230438232,
+      "cached": false
+    },
+    {
+      "generation": 4,
+      "genome_id": 637,
+      "training_fitness": 3.4108595848083496,
+      "catch_rate": 0.03,
+      "mean_catch_time_with_failures": 2.9237,
+      "mean_fitness": 4.298977375030518,
+      "cached": false
+    },
+    {
+      "generation": 4,
+      "genome_id": 699,
+      "training_fitness": 3.130251884460449,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.816665530204773,
+      "cached": false
+    },
+    {
+      "generation": 4,
+      "genome_id": 722,
+      "training_fitness": 2.8932957649230957,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 0.9008240699768066,
+      "cached": false
+    },
+    {
+      "generation": 5,
+      "genome_id": 864,
+      "training_fitness": 4.824141502380371,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.3603179454803467,
+      "cached": false
+    },
+    {
+      "generation": 5,
+      "genome_id": 691,
+      "training_fitness": 4.581722259521484,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.4518009424209595,
+      "cached": true
+    },
+    {
+      "generation": 5,
+      "genome_id": 788,
+      "training_fitness": 4.004124164581299,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 0.9928481578826904,
+      "cached": false
+    },
+    {
+      "generation": 5,
+      "genome_id": 829,
+      "training_fitness": 3.290691375732422,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9735,
+      "mean_fitness": 2.6847851276397705,
+      "cached": false
+    },
+    {
+      "generation": 5,
+      "genome_id": 857,
+      "training_fitness": 3.0732879638671875,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9763,
+      "mean_fitness": 2.2265207767486572,
+      "cached": false
+    },
+    {
+      "generation": 6,
+      "genome_id": 985,
+      "training_fitness": 4.2485032081604,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9811,
+      "mean_fitness": 2.4641053676605225,
+      "cached": false
+    },
+    {
+      "generation": 6,
+      "genome_id": 966,
+      "training_fitness": 4.201231002807617,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9744,
+      "mean_fitness": 2.8459856510162354,
+      "cached": false
+    },
+    {
+      "generation": 6,
+      "genome_id": 933,
+      "training_fitness": 4.056927680969238,
+      "catch_rate": 0.03,
+      "mean_catch_time_with_failures": 2.9423000000000004,
+      "mean_fitness": 4.846199035644531,
+      "cached": false
+    },
+    {
+      "generation": 6,
+      "genome_id": 921,
+      "training_fitness": 3.7126004695892334,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9749,
+      "mean_fitness": 2.361830949783325,
+      "cached": false
+    },
+    {
+      "generation": 6,
+      "genome_id": 923,
+      "training_fitness": 3.459243059158325,
+      "catch_rate": 0.02,
+      "mean_catch_time_with_failures": 2.9486000000000003,
+      "mean_fitness": 3.344923496246338,
+      "cached": false
+    },
+    {
+      "generation": 7,
+      "genome_id": 985,
+      "training_fitness": 6.217520713806152,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9811,
+      "mean_fitness": 2.4641053676605225,
+      "cached": true
+    },
+    {
+      "generation": 7,
+      "genome_id": 921,
+      "training_fitness": 4.971952438354492,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9749,
+      "mean_fitness": 2.361830949783325,
+      "cached": true
+    },
+    {
+      "generation": 7,
+      "genome_id": 1147,
+      "training_fitness": 4.498244285583496,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.5152733325958252,
+      "cached": false
+    },
+    {
+      "generation": 7,
+      "genome_id": 1151,
+      "training_fitness": 4.189939975738525,
+      "catch_rate": 0.04,
+      "mean_catch_time_with_failures": 2.9478999999999997,
+      "mean_fitness": 6.066013813018799,
+      "cached": false
+    },
+    {
+      "generation": 7,
+      "genome_id": 966,
+      "training_fitness": 3.494811534881592,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9744,
+      "mean_fitness": 2.8459856510162354,
+      "cached": true
+    },
+    {
+      "generation": 8,
+      "genome_id": 1151,
+      "training_fitness": 5.77510929107666,
+      "catch_rate": 0.04,
+      "mean_catch_time_with_failures": 2.9478999999999997,
+      "mean_fitness": 6.066013813018799,
+      "cached": true
+    },
+    {
+      "generation": 8,
+      "genome_id": 1170,
+      "training_fitness": 4.911864280700684,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.5483213663101196,
+      "cached": false
+    },
+    {
+      "generation": 8,
+      "genome_id": 1147,
+      "training_fitness": 4.790661811828613,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.5152733325958252,
+      "cached": true
+    },
+    {
+      "generation": 8,
+      "genome_id": 921,
+      "training_fitness": 4.595061302185059,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9749,
+      "mean_fitness": 2.361830949783325,
+      "cached": true
+    },
+    {
+      "generation": 8,
+      "genome_id": 985,
+      "training_fitness": 4.321872711181641,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9811,
+      "mean_fitness": 2.4641053676605225,
+      "cached": true
+    },
+    {
+      "generation": 9,
+      "genome_id": 1147,
+      "training_fitness": 5.555697441101074,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.5152733325958252,
+      "cached": true
+    },
+    {
+      "generation": 9,
+      "genome_id": 1334,
+      "training_fitness": 5.522876262664795,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9840999999999998,
+      "mean_fitness": 3.1318700313568115,
+      "cached": false
+    },
+    {
+      "generation": 9,
+      "genome_id": 921,
+      "training_fitness": 4.802052974700928,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9749,
+      "mean_fitness": 2.361830949783325,
+      "cached": true
+    },
+    {
+      "generation": 9,
+      "genome_id": 1151,
+      "training_fitness": 4.6479387283325195,
+      "catch_rate": 0.04,
+      "mean_catch_time_with_failures": 2.9478999999999997,
+      "mean_fitness": 6.066013813018799,
+      "cached": true
+    },
+    {
+      "generation": 9,
+      "genome_id": 1343,
+      "training_fitness": 4.207190036773682,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9846000000000004,
+      "mean_fitness": 3.576390266418457,
+      "cached": false
+    },
+    {
+      "generation": 10,
+      "genome_id": 1539,
+      "training_fitness": 7.001374244689941,
+      "catch_rate": 0.05,
+      "mean_catch_time_with_failures": 2.9191,
+      "mean_fitness": 7.3194661140441895,
+      "cached": false
+    },
+    {
+      "generation": 10,
+      "genome_id": 1147,
+      "training_fitness": 6.346813201904297,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.5152733325958252,
+      "cached": true
+    },
+    {
+      "generation": 10,
+      "genome_id": 1548,
+      "training_fitness": 5.519222736358643,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.3570917844772339,
+      "cached": false
+    },
+    {
+      "generation": 10,
+      "genome_id": 1535,
+      "training_fitness": 5.292466163635254,
+      "catch_rate": 0.0,
+      "mean_catch_time_with_failures": 3.0,
+      "mean_fitness": 1.7311326265335083,
+      "cached": false
+    },
+    {
+      "generation": 10,
+      "genome_id": 1546,
+      "training_fitness": 4.24826717376709,
+      "catch_rate": 0.01,
+      "mean_catch_time_with_failures": 2.9795,
+      "mean_fitness": 3.1118743419647217,
+      "cached": false
+    },
+    {
+      "generation": 11,
+      "genome_id": 1715,
+      "training_fitness": 16.63287353515625,
+      "catch_rate": 0.1,
+      "mean_catch_time_with_failures": 2.8781,
+      "mean_fitness": 12.235246658325195,
+      "cached": false
+    },
+    {
+      "generation": 11,
+      "genome_id": 1699,
+      "training_fitness": 8.855539321899414,
+      "catch_rate": 0.08,
+      "mean_catch_time_with_failures": 2.9152,
+      "mean_fitness": 9.896429061889648,
+      "cached": false
+    },
+    {
+      "generation": 11,
+      "genome_id": 1539,
+      "training_fitness": 8.220964431762695,
+      "catch_rate": 0.05,
+      "mean_catch_time_with_failures": 2.9191,
+      "mean_fitness": 7.3194661140441895,
+      "cached": true
+    },
+    {
+      "generation": 11,
+      "genome_id": 1724,
+      "training_fitness": 7.6499199867248535,
+      "catch_rate": 0.02,
+      "mean_catch_time_with_failures": 2.9778999999999995,
+      "mean_fitness": 3.987255334854126,
+      "cached": false
+    },
+    {
+      "generation": 11,
+      "genome_id": 1712,
+      "training_fitness": 5.988090991973877,
+      "catch_rate": 0.02,
+      "mean_catch_time_with_failures": 2.9632,
+      "mean_fitness": 3.9762673377990723,
+      "cached": false
+    },
+    {
+      "generation": 12,
+      "genome_id": 1852,
+      "training_fitness": 21.080415725708008,
+      "catch_rate": 0.18,
+      "mean_catch_time_with_failures": 2.8087999999999997,
+      "mean_fitness": 20.0964298248291,
+      "cached": false
+    },
+    {
+      "generation": 12,
+      "genome_id": 1715,
+      "training_fitness": 18.99664878845215,
+      "catch_rate": 0.1,
+      "mean_catch_time_with_failures": 2.8781,
+      "mean_fitness": 12.235246658325195,
+      "cached": true
+    },
+    {
+      "generation": 12,
+      "genome_id": 1853,
+      "training_fitness": 9.281254768371582,
+      "catch_rate": 0.04,
+      "mean_catch_time_with_failures": 2.9474,
+      "mean_fitness": 6.847949981689453,
+      "cached": false
+    },
+    {
+      "generation": 12,
+      "genome_id": 1840,
+      "training_fitness": 8.807432174682617,
+      "catch_rate": 0.07,
+      "mean_catch_time_with_failures": 2.92,
+      "mean_fitness": 8.560752868652344,
+      "cached": false
+    },
+    {
+      "generation": 12,
+      "genome_id": 1854,
+      "training_fitness": 7.264776706695557,
+      "catch_rate": 0.02,
+      "mean_catch_time_with_failures": 2.9712,
+      "mean_fitness": 4.327281475067139,
+      "cached": false
+    },
+    {
+      "generation": 13,
+      "genome_id": 1852,
+      "training_fitness": 20.437763214111328,
+      "catch_rate": 0.18,
+      "mean_catch_time_with_failures": 2.8087999999999997,
+      "mean_fitness": 20.0964298248291,
+      "cached": true
+    },
+    {
+      "generation": 13,
+      "genome_id": 2005,
+      "training_fitness": 14.777999877929688,
+      "catch_rate": 0.08,
+      "mean_catch_time_with_failures": 2.8789999999999996,
+      "mean_fitness": 10.045513153076172,
+      "cached": false
+    },
+    {
+      "generation": 13,
+      "genome_id": 1969,
+      "training_fitness": 10.28541088104248,
+      "catch_rate": 0.04,
+      "mean_catch_time_with_failures": 2.9153000000000002,
+      "mean_fitness": 6.146065711975098,
+      "cached": false
+    },
+    {
+      "generation": 13,
+      "genome_id": 2002,
+      "training_fitness": 10.192228317260742,
+      "catch_rate": 0.06,
+      "mean_catch_time_with_failures": 2.8773,
+      "mean_fitness": 8.704236030578613,
+      "cached": false
+    },
+    {
+      "generation": 13,
+      "genome_id": 1971,
+      "training_fitness": 8.426729202270508,
+      "catch_rate": 0.04,
+      "mean_catch_time_with_failures": 2.9343,
+      "mean_fitness": 6.332463264465332,
+      "cached": false
+    },
+    {
+      "generation": 14,
+      "genome_id": 2113,
+      "training_fitness": 31.932741165161133,
+      "catch_rate": 0.24,
+      "mean_catch_time_with_failures": 2.7459,
+      "mean_fitness": 25.429241180419922,
+      "cached": false
+    },
+    {
+      "generation": 14,
+      "genome_id": 2125,
+      "training_fitness": 25.884592056274414,
+      "catch_rate": 0.13,
+      "mean_catch_time_with_failures": 2.8723,
+      "mean_fitness": 15.167742729187012,
+      "cached": false
+    },
+    {
+      "generation": 14,
+      "genome_id": 2085,
+      "training_fitness": 24.12860870361328,
+      "catch_rate": 0.08,
+      "mean_catch_time_with_failures": 2.9540999999999995,
+      "mean_fitness": 10.335529327392578,
+      "cached": false
+    },
+    {
+      "generation": 14,
+      "genome_id": 1852,
+      "training_fitness": 22.005338668823242,
+      "catch_rate": 0.18,
+      "mean_catch_time_with_failures": 2.8087999999999997,
+      "mean_fitness": 20.0964298248291,
+      "cached": true
+    },
+    {
+      "generation": 14,
+      "genome_id": 2146,
+      "training_fitness": 16.89230728149414,
+      "catch_rate": 0.06,
+      "mean_catch_time_with_failures": 2.9059000000000004,
+      "mean_fitness": 7.49526309967041,
+      "cached": false
+    },
+    {
+      "generation": 15,
+      "genome_id": 2290,
+      "training_fitness": 31.70659637451172,
+      "catch_rate": 0.19,
+      "mean_catch_time_with_failures": 2.7910000000000004,
+      "mean_fitness": 21.4962100982666,
+      "cached": false
+    },
+    {
+      "generation": 15,
+      "genome_id": 2113,
+      "training_fitness": 26.359209060668945,
+      "catch_rate": 0.24,
+      "mean_catch_time_with_failures": 2.7459,
+      "mean_fitness": 25.429241180419922,
+      "cached": true
+    },
+    {
+      "generation": 15,
+      "genome_id": 2268,
+      "training_fitness": 24.052947998046875,
+      "catch_rate": 0.23,
+      "mean_catch_time_with_failures": 2.8094,
+      "mean_fitness": 24.704721450805664,
+      "cached": false
+    },
+    {
+      "generation": 15,
+      "genome_id": 2222,
+      "training_fitness": 23.72720718383789,
+      "catch_rate": 0.22,
+      "mean_catch_time_with_failures": 2.6875,
+      "mean_fitness": 24.301475524902344,
+      "cached": false
+    },
+    {
+      "generation": 15,
+      "genome_id": 2253,
+      "training_fitness": 21.152347564697266,
+      "catch_rate": 0.2,
+      "mean_catch_time_with_failures": 2.7996,
+      "mean_fitness": 21.432432174682617,
+      "cached": false
+    },
+    {
+      "generation": 16,
+      "genome_id": 2420,
+      "training_fitness": 28.921554565429688,
+      "catch_rate": 0.36,
+      "mean_catch_time_with_failures": 2.5742000000000003,
+      "mean_fitness": 37.742218017578125,
+      "cached": false
+    },
+    {
+      "generation": 16,
+      "genome_id": 2290,
+      "training_fitness": 28.50661849975586,
+      "catch_rate": 0.19,
+      "mean_catch_time_with_failures": 2.7910000000000004,
+      "mean_fitness": 21.4962100982666,
+      "cached": true
+    },
+    {
+      "generation": 16,
+      "genome_id": 2396,
+      "training_fitness": 27.11692237854004,
+      "catch_rate": 0.14,
+      "mean_catch_time_with_failures": 2.7944000000000004,
+      "mean_fitness": 16.42749786376953,
+      "cached": false
+    },
+    {
+      "generation": 16,
+      "genome_id": 2222,
+      "training_fitness": 21.566505432128906,
+      "catch_rate": 0.22,
+      "mean_catch_time_with_failures": 2.6875,
+      "mean_fitness": 24.301475524902344,
+      "cached": true
+    },
+    {
+      "generation": 16,
+      "genome_id": 2085,
+      "training_fitness": 20.803329467773438,
+      "catch_rate": 0.08,
+      "mean_catch_time_with_failures": 2.9540999999999995,
+      "mean_fitness": 10.335529327392578,
+      "cached": true
+    },
+    {
+      "generation": 17,
+      "genome_id": 2564,
+      "training_fitness": 69.127685546875,
+      "catch_rate": 0.66,
+      "mean_catch_time_with_failures": 2.0050000000000003,
+      "mean_fitness": 66.59063720703125,
+      "cached": false
+    },
+    {
+      "generation": 17,
+      "genome_id": 2570,
+      "training_fitness": 43.742549896240234,
+      "catch_rate": 0.47,
+      "mean_catch_time_with_failures": 2.4659000000000004,
+      "mean_fitness": 48.04875564575195,
+      "cached": false
+    },
+    {
+      "generation": 17,
+      "genome_id": 2420,
+      "training_fitness": 32.99629211425781,
+      "catch_rate": 0.36,
+      "mean_catch_time_with_failures": 2.5742000000000003,
+      "mean_fitness": 37.742218017578125,
+      "cached": true
+    },
+    {
+      "generation": 17,
+      "genome_id": 2563,
+      "training_fitness": 24.403833389282227,
+      "catch_rate": 0.17,
+      "mean_catch_time_with_failures": 2.8249,
+      "mean_fitness": 19.49602699279785,
+      "cached": false
+    },
+    {
+      "generation": 17,
+      "genome_id": 2085,
+      "training_fitness": 21.39908790588379,
+      "catch_rate": 0.08,
+      "mean_catch_time_with_failures": 2.9540999999999995,
+      "mean_fitness": 10.335529327392578,
+      "cached": true
+    },
+    {
+      "generation": 18,
+      "genome_id": 2564,
+      "training_fitness": 70.79278564453125,
+      "catch_rate": 0.66,
+      "mean_catch_time_with_failures": 2.0050000000000003,
+      "mean_fitness": 66.59063720703125,
+      "cached": true
+    },
+    {
+      "generation": 18,
+      "genome_id": 2683,
+      "training_fitness": 56.620811462402344,
+      "catch_rate": 0.48,
+      "mean_catch_time_with_failures": 2.4646,
+      "mean_fitness": 48.494529724121094,
+      "cached": false
+    },
+    {
+      "generation": 18,
+      "genome_id": 2652,
+      "training_fitness": 50.465206146240234,
+      "catch_rate": 0.42,
+      "mean_catch_time_with_failures": 2.5746,
+      "mean_fitness": 42.941253662109375,
+      "cached": false
+    },
+    {
+      "generation": 18,
+      "genome_id": 2711,
+      "training_fitness": 41.75286865234375,
+      "catch_rate": 0.47,
+      "mean_catch_time_with_failures": 2.289,
+      "mean_fitness": 48.682586669921875,
+      "cached": false
+    },
+    {
+      "generation": 18,
+      "genome_id": 2690,
+      "training_fitness": 28.065515518188477,
+      "catch_rate": 0.17,
+      "mean_catch_time_with_failures": 2.7489,
+      "mean_fitness": 19.708534240722656,
+      "cached": false
+    },
+    {
+      "generation": 19,
+      "genome_id": 2564,
+      "training_fitness": 74.80084228515625,
+      "catch_rate": 0.66,
+      "mean_catch_time_with_failures": 2.0050000000000003,
+      "mean_fitness": 66.59063720703125,
+      "cached": true
+    },
+    {
+      "generation": 19,
+      "genome_id": 2711,
+      "training_fitness": 46.58469772338867,
+      "catch_rate": 0.47,
+      "mean_catch_time_with_failures": 2.289,
+      "mean_fitness": 48.682586669921875,
+      "cached": true
+    },
+    {
+      "generation": 19,
+      "genome_id": 2834,
+      "training_fitness": 43.688472747802734,
+      "catch_rate": 0.4,
+      "mean_catch_time_with_failures": 2.5808,
+      "mean_fitness": 40.93434143066406,
+      "cached": false
+    },
+    {
+      "generation": 19,
+      "genome_id": 2821,
+      "training_fitness": 41.99419403076172,
+      "catch_rate": 0.29,
+      "mean_catch_time_with_failures": 2.7369000000000003,
+      "mean_fitness": 30.44240951538086,
+      "cached": false
+    },
+    {
+      "generation": 19,
+      "genome_id": 2842,
+      "training_fitness": 40.184059143066406,
+      "catch_rate": 0.3,
+      "mean_catch_time_with_failures": 2.7569000000000004,
+      "mean_fitness": 30.999732971191406,
+      "cached": false
+    },
+    {
+      "generation": 20,
+      "genome_id": 2564,
+      "training_fitness": 71.06111907958984,
+      "catch_rate": 0.66,
+      "mean_catch_time_with_failures": 2.0050000000000003,
+      "mean_fitness": 66.59063720703125,
+      "cached": true
+    },
+    {
+      "generation": 20,
+      "genome_id": 2981,
+      "training_fitness": 67.62591552734375,
+      "catch_rate": 0.54,
+      "mean_catch_time_with_failures": 2.1474,
+      "mean_fitness": 55.125370025634766,
+      "cached": false
+    },
+    {
+      "generation": 20,
+      "genome_id": 2993,
+      "training_fitness": 66.38731384277344,
+      "catch_rate": 0.62,
+      "mean_catch_time_with_failures": 2.2275000000000005,
+      "mean_fitness": 62.38917922973633,
+      "cached": false
+    },
+    {
+      "generation": 20,
+      "genome_id": 2980,
+      "training_fitness": 60.37169647216797,
+      "catch_rate": 0.51,
+      "mean_catch_time_with_failures": 2.4777,
+      "mean_fitness": 51.537662506103516,
+      "cached": false
+    },
+    {
+      "generation": 20,
+      "genome_id": 2987,
+      "training_fitness": 58.3030891418457,
+      "catch_rate": 0.62,
+      "mean_catch_time_with_failures": 2.1097,
+      "mean_fitness": 62.47039031982422,
+      "cached": false
+    },
+    {
+      "generation": 21,
+      "genome_id": 3097,
+      "training_fitness": 71.39105224609375,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": false
+    },
+    {
+      "generation": 21,
+      "genome_id": 2564,
+      "training_fitness": 70.43009948730469,
+      "catch_rate": 0.66,
+      "mean_catch_time_with_failures": 2.0050000000000003,
+      "mean_fitness": 66.59063720703125,
+      "cached": true
+    },
+    {
+      "generation": 21,
+      "genome_id": 3127,
+      "training_fitness": 53.740264892578125,
+      "catch_rate": 0.47,
+      "mean_catch_time_with_failures": 2.432,
+      "mean_fitness": 47.94522476196289,
+      "cached": false
+    },
+    {
+      "generation": 21,
+      "genome_id": 3125,
+      "training_fitness": 51.67535400390625,
+      "catch_rate": 0.44,
+      "mean_catch_time_with_failures": 2.545,
+      "mean_fitness": 44.77891540527344,
+      "cached": false
+    },
+    {
+      "generation": 21,
+      "genome_id": 3106,
+      "training_fitness": 45.638771057128906,
+      "catch_rate": 0.43,
+      "mean_catch_time_with_failures": 2.3637,
+      "mean_fitness": 44.95417022705078,
+      "cached": false
+    },
+    {
+      "generation": 22,
+      "genome_id": 3097,
+      "training_fitness": 71.9476318359375,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 22,
+      "genome_id": 3231,
+      "training_fitness": 70.25430297851562,
+      "catch_rate": 0.61,
+      "mean_catch_time_with_failures": 2.131,
+      "mean_fitness": 61.95539093017578,
+      "cached": false
+    },
+    {
+      "generation": 22,
+      "genome_id": 3257,
+      "training_fitness": 63.64609909057617,
+      "catch_rate": 0.69,
+      "mean_catch_time_with_failures": 2.1351000000000004,
+      "mean_fitness": 69.22904968261719,
+      "cached": false
+    },
+    {
+      "generation": 22,
+      "genome_id": 3235,
+      "training_fitness": 60.73679733276367,
+      "catch_rate": 0.53,
+      "mean_catch_time_with_failures": 2.3644,
+      "mean_fitness": 53.559600830078125,
+      "cached": false
+    },
+    {
+      "generation": 22,
+      "genome_id": 3242,
+      "training_fitness": 55.0540885925293,
+      "catch_rate": 0.49,
+      "mean_catch_time_with_failures": 2.1258000000000004,
+      "mean_fitness": 50.6230583190918,
+      "cached": false
+    },
+    {
+      "generation": 23,
+      "genome_id": 3097,
+      "training_fitness": 62.01824951171875,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 23,
+      "genome_id": 3405,
+      "training_fitness": 56.65681838989258,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.2482,
+      "mean_fitness": 63.2000617980957,
+      "cached": false
+    },
+    {
+      "generation": 23,
+      "genome_id": 3372,
+      "training_fitness": 54.240440368652344,
+      "catch_rate": 0.5,
+      "mean_catch_time_with_failures": 2.3736,
+      "mean_fitness": 51.179405212402344,
+      "cached": false
+    },
+    {
+      "generation": 23,
+      "genome_id": 3406,
+      "training_fitness": 49.969451904296875,
+      "catch_rate": 0.53,
+      "mean_catch_time_with_failures": 2.4429,
+      "mean_fitness": 53.5463981628418,
+      "cached": false
+    },
+    {
+      "generation": 23,
+      "genome_id": 3341,
+      "training_fitness": 46.84307098388672,
+      "catch_rate": 0.33,
+      "mean_catch_time_with_failures": 2.5989999999999998,
+      "mean_fitness": 34.28292465209961,
+      "cached": false
+    },
+    {
+      "generation": 24,
+      "genome_id": 3097,
+      "training_fitness": 69.42295837402344,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 24,
+      "genome_id": 3486,
+      "training_fitness": 49.36355972290039,
+      "catch_rate": 0.41,
+      "mean_catch_time_with_failures": 2.5958000000000006,
+      "mean_fitness": 41.41752624511719,
+      "cached": false
+    },
+    {
+      "generation": 24,
+      "genome_id": 3495,
+      "training_fitness": 49.130889892578125,
+      "catch_rate": 0.41,
+      "mean_catch_time_with_failures": 2.4783,
+      "mean_fitness": 41.903602600097656,
+      "cached": false
+    },
+    {
+      "generation": 24,
+      "genome_id": 3341,
+      "training_fitness": 48.52287292480469,
+      "catch_rate": 0.33,
+      "mean_catch_time_with_failures": 2.5989999999999998,
+      "mean_fitness": 34.28292465209961,
+      "cached": true
+    },
+    {
+      "generation": 24,
+      "genome_id": 3497,
+      "training_fitness": 44.657958984375,
+      "catch_rate": 0.32,
+      "mean_catch_time_with_failures": 2.5512,
+      "mean_fitness": 33.89601135253906,
+      "cached": false
+    },
+    {
+      "generation": 25,
+      "genome_id": 3097,
+      "training_fitness": 66.77608489990234,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 25,
+      "genome_id": 3655,
+      "training_fitness": 57.34598159790039,
+      "catch_rate": 0.41,
+      "mean_catch_time_with_failures": 2.5891999999999995,
+      "mean_fitness": 41.358272552490234,
+      "cached": false
+    },
+    {
+      "generation": 25,
+      "genome_id": 3626,
+      "training_fitness": 57.0955810546875,
+      "catch_rate": 0.49,
+      "mean_catch_time_with_failures": 2.429,
+      "mean_fitness": 49.93803787231445,
+      "cached": false
+    },
+    {
+      "generation": 25,
+      "genome_id": 3486,
+      "training_fitness": 50.62523651123047,
+      "catch_rate": 0.41,
+      "mean_catch_time_with_failures": 2.5958000000000006,
+      "mean_fitness": 41.41752624511719,
+      "cached": true
+    },
+    {
+      "generation": 25,
+      "genome_id": 3690,
+      "training_fitness": 45.248748779296875,
+      "catch_rate": 0.59,
+      "mean_catch_time_with_failures": 2.4371,
+      "mean_fitness": 58.59272766113281,
+      "cached": false
+    },
+    {
+      "generation": 26,
+      "genome_id": 3097,
+      "training_fitness": 66.42100524902344,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 26,
+      "genome_id": 3755,
+      "training_fitness": 60.2397346496582,
+      "catch_rate": 0.47,
+      "mean_catch_time_with_failures": 2.4773,
+      "mean_fitness": 47.68928146362305,
+      "cached": false
+    },
+    {
+      "generation": 26,
+      "genome_id": 3655,
+      "training_fitness": 60.14775848388672,
+      "catch_rate": 0.41,
+      "mean_catch_time_with_failures": 2.5891999999999995,
+      "mean_fitness": 41.358272552490234,
+      "cached": true
+    },
+    {
+      "generation": 26,
+      "genome_id": 3774,
+      "training_fitness": 52.16292190551758,
+      "catch_rate": 0.49,
+      "mean_catch_time_with_failures": 2.4581999999999997,
+      "mean_fitness": 49.560752868652344,
+      "cached": false
+    },
+    {
+      "generation": 26,
+      "genome_id": 3776,
+      "training_fitness": 48.735408782958984,
+      "catch_rate": 0.36,
+      "mean_catch_time_with_failures": 2.6207,
+      "mean_fitness": 37.19667053222656,
+      "cached": false
+    },
+    {
+      "generation": 27,
+      "genome_id": 3097,
+      "training_fitness": 65.01719665527344,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 27,
+      "genome_id": 3655,
+      "training_fitness": 58.511173248291016,
+      "catch_rate": 0.41,
+      "mean_catch_time_with_failures": 2.5891999999999995,
+      "mean_fitness": 41.358272552490234,
+      "cached": true
+    },
+    {
+      "generation": 27,
+      "genome_id": 3755,
+      "training_fitness": 57.962684631347656,
+      "catch_rate": 0.47,
+      "mean_catch_time_with_failures": 2.4773,
+      "mean_fitness": 47.68928146362305,
+      "cached": true
+    },
+    {
+      "generation": 27,
+      "genome_id": 3905,
+      "training_fitness": 54.911659240722656,
+      "catch_rate": 0.39,
+      "mean_catch_time_with_failures": 2.559,
+      "mean_fitness": 39.848419189453125,
+      "cached": false
+    },
+    {
+      "generation": 27,
+      "genome_id": 3968,
+      "training_fitness": 54.115055084228516,
+      "catch_rate": 0.54,
+      "mean_catch_time_with_failures": 2.0690999999999997,
+      "mean_fitness": 55.97600173950195,
+      "cached": false
+    },
+    {
+      "generation": 28,
+      "genome_id": 4099,
+      "training_fitness": 77.91014099121094,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 2.0515999999999996,
+      "mean_fitness": 73.27702331542969,
+      "cached": false
+    },
+    {
+      "generation": 28,
+      "genome_id": 3097,
+      "training_fitness": 65.51557922363281,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 28,
+      "genome_id": 4056,
+      "training_fitness": 65.00444030761719,
+      "catch_rate": 0.53,
+      "mean_catch_time_with_failures": 2.4256,
+      "mean_fitness": 53.947750091552734,
+      "cached": false
+    },
+    {
+      "generation": 28,
+      "genome_id": 4077,
+      "training_fitness": 64.2901611328125,
+      "catch_rate": 0.52,
+      "mean_catch_time_with_failures": 2.2889,
+      "mean_fitness": 53.20045471191406,
+      "cached": false
+    },
+    {
+      "generation": 28,
+      "genome_id": 4023,
+      "training_fitness": 62.55546569824219,
+      "catch_rate": 0.55,
+      "mean_catch_time_with_failures": 2.2099,
+      "mean_fitness": 56.19287109375,
+      "cached": false
+    },
+    {
+      "generation": 29,
+      "genome_id": 4214,
+      "training_fitness": 77.63943481445312,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.8726999999999998,
+      "mean_fitness": 80.24805450439453,
+      "cached": false
+    },
+    {
+      "generation": 29,
+      "genome_id": 4099,
+      "training_fitness": 75.37154388427734,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 2.0515999999999996,
+      "mean_fitness": 73.27702331542969,
+      "cached": true
+    },
+    {
+      "generation": 29,
+      "genome_id": 4175,
+      "training_fitness": 72.91667175292969,
+      "catch_rate": 0.64,
+      "mean_catch_time_with_failures": 2.1862,
+      "mean_fitness": 64.31560516357422,
+      "cached": false
+    },
+    {
+      "generation": 29,
+      "genome_id": 3097,
+      "training_fitness": 71.61500549316406,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0459,
+      "mean_fitness": 71.2228012084961,
+      "cached": true
+    },
+    {
+      "generation": 29,
+      "genome_id": 4199,
+      "training_fitness": 67.97955322265625,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.1819,
+      "mean_fitness": 63.47438430786133,
+      "cached": false
+    },
+    {
+      "generation": 30,
+      "genome_id": 4214,
+      "training_fitness": 78.19183349609375,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.8726999999999998,
+      "mean_fitness": 80.24805450439453,
+      "cached": true
+    },
+    {
+      "generation": 30,
+      "genome_id": 4328,
+      "training_fitness": 75.62557983398438,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 2.0762000000000005,
+      "mean_fitness": 72.81767272949219,
+      "cached": false
+    },
+    {
+      "generation": 30,
+      "genome_id": 4392,
+      "training_fitness": 73.63980865478516,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.8969999999999996,
+      "mean_fitness": 78.38095092773438,
+      "cached": false
+    },
+    {
+      "generation": 30,
+      "genome_id": 4175,
+      "training_fitness": 73.09020233154297,
+      "catch_rate": 0.64,
+      "mean_catch_time_with_failures": 2.1862,
+      "mean_fitness": 64.31560516357422,
+      "cached": true
+    },
+    {
+      "generation": 30,
+      "genome_id": 4299,
+      "training_fitness": 71.46839904785156,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.9434000000000007,
+      "mean_fitness": 76.8618392944336,
+      "cached": false
+    },
+    {
+      "generation": 31,
+      "genome_id": 4528,
+      "training_fitness": 95.16401672363281,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": false
+    },
+    {
+      "generation": 31,
+      "genome_id": 4214,
+      "training_fitness": 80.65025329589844,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.8726999999999998,
+      "mean_fitness": 80.24805450439453,
+      "cached": true
+    },
+    {
+      "generation": 31,
+      "genome_id": 4328,
+      "training_fitness": 74.37877655029297,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 2.0762000000000005,
+      "mean_fitness": 72.81767272949219,
+      "cached": true
+    },
+    {
+      "generation": 31,
+      "genome_id": 4299,
+      "training_fitness": 69.54682159423828,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.9434000000000007,
+      "mean_fitness": 76.8618392944336,
+      "cached": true
+    },
+    {
+      "generation": 31,
+      "genome_id": 4522,
+      "training_fitness": 64.34117126464844,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 2.0428,
+      "mean_fitness": 71.2412338256836,
+      "cached": false
+    },
+    {
+      "generation": 32,
+      "genome_id": 4528,
+      "training_fitness": 95.20838928222656,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 32,
+      "genome_id": 4328,
+      "training_fitness": 73.78350830078125,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 2.0762000000000005,
+      "mean_fitness": 72.81767272949219,
+      "cached": true
+    },
+    {
+      "generation": 32,
+      "genome_id": 4299,
+      "training_fitness": 67.34007263183594,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.9434000000000007,
+      "mean_fitness": 76.8618392944336,
+      "cached": true
+    },
+    {
+      "generation": 32,
+      "genome_id": 4610,
+      "training_fitness": 63.087669372558594,
+      "catch_rate": 0.66,
+      "mean_catch_time_with_failures": 1.9737000000000002,
+      "mean_fitness": 67.1064682006836,
+      "cached": false
+    },
+    {
+      "generation": 32,
+      "genome_id": 4646,
+      "training_fitness": 61.383270263671875,
+      "catch_rate": 0.43,
+      "mean_catch_time_with_failures": 2.4682,
+      "mean_fitness": 43.61585998535156,
+      "cached": false
+    },
+    {
+      "generation": 33,
+      "genome_id": 4528,
+      "training_fitness": 93.6946029663086,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 33,
+      "genome_id": 4782,
+      "training_fitness": 79.94526672363281,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.8912999999999998,
+      "mean_fitness": 77.41499328613281,
+      "cached": false
+    },
+    {
+      "generation": 33,
+      "genome_id": 4753,
+      "training_fitness": 73.94807434082031,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.069,
+      "mean_fitness": 63.49766159057617,
+      "cached": false
+    },
+    {
+      "generation": 33,
+      "genome_id": 4328,
+      "training_fitness": 72.89295959472656,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 2.0762000000000005,
+      "mean_fitness": 72.81767272949219,
+      "cached": true
+    },
+    {
+      "generation": 33,
+      "genome_id": 4299,
+      "training_fitness": 71.5202865600586,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.9434000000000007,
+      "mean_fitness": 76.8618392944336,
+      "cached": true
+    },
+    {
+      "generation": 34,
+      "genome_id": 4528,
+      "training_fitness": 94.55488586425781,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 34,
+      "genome_id": 4299,
+      "training_fitness": 74.1457748413086,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.9434000000000007,
+      "mean_fitness": 76.8618392944336,
+      "cached": true
+    },
+    {
+      "generation": 34,
+      "genome_id": 4753,
+      "training_fitness": 69.61359405517578,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.069,
+      "mean_fitness": 63.49766159057617,
+      "cached": true
+    },
+    {
+      "generation": 34,
+      "genome_id": 4870,
+      "training_fitness": 64.63841247558594,
+      "catch_rate": 0.75,
+      "mean_catch_time_with_failures": 2.1156,
+      "mean_fitness": 74.49310302734375,
+      "cached": false
+    },
+    {
+      "generation": 34,
+      "genome_id": 4956,
+      "training_fitness": 61.77945327758789,
+      "catch_rate": 0.47,
+      "mean_catch_time_with_failures": 2.282,
+      "mean_fitness": 47.82905578613281,
+      "cached": false
+    },
+    {
+      "generation": 35,
+      "genome_id": 4528,
+      "training_fitness": 95.9148178100586,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 35,
+      "genome_id": 5097,
+      "training_fitness": 76.4715347290039,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.9383000000000004,
+      "mean_fitness": 73.34870147705078,
+      "cached": false
+    },
+    {
+      "generation": 35,
+      "genome_id": 4753,
+      "training_fitness": 73.37277221679688,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.069,
+      "mean_fitness": 63.49766159057617,
+      "cached": true
+    },
+    {
+      "generation": 35,
+      "genome_id": 5031,
+      "training_fitness": 73.22480010986328,
+      "catch_rate": 0.76,
+      "mean_catch_time_with_failures": 1.9687999999999999,
+      "mean_fitness": 75.95524597167969,
+      "cached": false
+    },
+    {
+      "generation": 35,
+      "genome_id": 4299,
+      "training_fitness": 71.76564025878906,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.9434000000000007,
+      "mean_fitness": 76.8618392944336,
+      "cached": true
+    },
+    {
+      "generation": 36,
+      "genome_id": 4528,
+      "training_fitness": 95.526123046875,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 36,
+      "genome_id": 5198,
+      "training_fitness": 78.99505615234375,
+      "catch_rate": 0.82,
+      "mean_catch_time_with_failures": 1.6666000000000005,
+      "mean_fitness": 82.4765625,
+      "cached": false
+    },
+    {
+      "generation": 36,
+      "genome_id": 5230,
+      "training_fitness": 77.66917419433594,
+      "catch_rate": 0.79,
+      "mean_catch_time_with_failures": 2.1373,
+      "mean_fitness": 78.5049819946289,
+      "cached": false
+    },
+    {
+      "generation": 36,
+      "genome_id": 5215,
+      "training_fitness": 75.66218566894531,
+      "catch_rate": 0.46,
+      "mean_catch_time_with_failures": 2.2074999999999996,
+      "mean_fitness": 47.279884338378906,
+      "cached": false
+    },
+    {
+      "generation": 36,
+      "genome_id": 4753,
+      "training_fitness": 74.76435852050781,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.069,
+      "mean_fitness": 63.49766159057617,
+      "cached": true
+    },
+    {
+      "generation": 37,
+      "genome_id": 4528,
+      "training_fitness": 97.98208618164062,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 37,
+      "genome_id": 5305,
+      "training_fitness": 79.06703186035156,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": false
+    },
+    {
+      "generation": 37,
+      "genome_id": 5312,
+      "training_fitness": 76.5006103515625,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.9245999999999994,
+      "mean_fitness": 77.06631469726562,
+      "cached": false
+    },
+    {
+      "generation": 37,
+      "genome_id": 4753,
+      "training_fitness": 70.74526977539062,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.069,
+      "mean_fitness": 63.49766159057617,
+      "cached": true
+    },
+    {
+      "generation": 37,
+      "genome_id": 5359,
+      "training_fitness": 69.45463562011719,
+      "catch_rate": 0.52,
+      "mean_catch_time_with_failures": 2.0606999999999998,
+      "mean_fitness": 54.287193298339844,
+      "cached": false
+    },
+    {
+      "generation": 38,
+      "genome_id": 4528,
+      "training_fitness": 94.9607925415039,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 38,
+      "genome_id": 5305,
+      "training_fitness": 81.45082092285156,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 38,
+      "genome_id": 5488,
+      "training_fitness": 79.19268798828125,
+      "catch_rate": 0.79,
+      "mean_catch_time_with_failures": 2.1567000000000003,
+      "mean_fitness": 78.35016632080078,
+      "cached": false
+    },
+    {
+      "generation": 38,
+      "genome_id": 5496,
+      "training_fitness": 71.28406524658203,
+      "catch_rate": 0.68,
+      "mean_catch_time_with_failures": 2.0908999999999995,
+      "mean_fitness": 68.48644256591797,
+      "cached": false
+    },
+    {
+      "generation": 38,
+      "genome_id": 5444,
+      "training_fitness": 67.21450805664062,
+      "catch_rate": 0.63,
+      "mean_catch_time_with_failures": 2.2356,
+      "mean_fitness": 63.444026947021484,
+      "cached": false
+    },
+    {
+      "generation": 39,
+      "genome_id": 4528,
+      "training_fitness": 94.84443664550781,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 39,
+      "genome_id": 5305,
+      "training_fitness": 78.601318359375,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 39,
+      "genome_id": 5592,
+      "training_fitness": 74.09976196289062,
+      "catch_rate": 0.66,
+      "mean_catch_time_with_failures": 2.2222999999999997,
+      "mean_fitness": 66.14942169189453,
+      "cached": false
+    },
+    {
+      "generation": 39,
+      "genome_id": 5672,
+      "training_fitness": 64.79344177246094,
+      "catch_rate": 0.56,
+      "mean_catch_time_with_failures": 2.4034,
+      "mean_fitness": 56.591915130615234,
+      "cached": false
+    },
+    {
+      "generation": 39,
+      "genome_id": 5665,
+      "training_fitness": 62.90641784667969,
+      "catch_rate": 0.43,
+      "mean_catch_time_with_failures": 2.4654000000000003,
+      "mean_fitness": 44.31153869628906,
+      "cached": false
+    },
+    {
+      "generation": 40,
+      "genome_id": 4528,
+      "training_fitness": 97.88355255126953,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 40,
+      "genome_id": 5305,
+      "training_fitness": 79.80850982666016,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 40,
+      "genome_id": 5799,
+      "training_fitness": 69.98141479492188,
+      "catch_rate": 0.58,
+      "mean_catch_time_with_failures": 2.2721,
+      "mean_fitness": 58.600807189941406,
+      "cached": false
+    },
+    {
+      "generation": 40,
+      "genome_id": 5806,
+      "training_fitness": 65.97450256347656,
+      "catch_rate": 0.5,
+      "mean_catch_time_with_failures": 2.4743999999999997,
+      "mean_fitness": 50.69367980957031,
+      "cached": false
+    },
+    {
+      "generation": 40,
+      "genome_id": 5803,
+      "training_fitness": 63.324581146240234,
+      "catch_rate": 0.51,
+      "mean_catch_time_with_failures": 2.1997,
+      "mean_fitness": 52.810482025146484,
+      "cached": false
+    },
+    {
+      "generation": 41,
+      "genome_id": 4528,
+      "training_fitness": 94.46389770507812,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 41,
+      "genome_id": 5924,
+      "training_fitness": 93.43639373779297,
+      "catch_rate": 0.88,
+      "mean_catch_time_with_failures": 1.6195,
+      "mean_fitness": 88.36202239990234,
+      "cached": false
+    },
+    {
+      "generation": 41,
+      "genome_id": 5305,
+      "training_fitness": 74.01551818847656,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 41,
+      "genome_id": 5939,
+      "training_fitness": 66.71192932128906,
+      "catch_rate": 0.57,
+      "mean_catch_time_with_failures": 2.2965999999999998,
+      "mean_fitness": 58.02708053588867,
+      "cached": false
+    },
+    {
+      "generation": 41,
+      "genome_id": 5915,
+      "training_fitness": 64.56281280517578,
+      "catch_rate": 0.68,
+      "mean_catch_time_with_failures": 2.0698,
+      "mean_fitness": 68.09403228759766,
+      "cached": false
+    },
+    {
+      "generation": 42,
+      "genome_id": 4528,
+      "training_fitness": 96.24161529541016,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 42,
+      "genome_id": 6101,
+      "training_fitness": 80.21481323242188,
+      "catch_rate": 0.76,
+      "mean_catch_time_with_failures": 1.9958999999999998,
+      "mean_fitness": 76.16461181640625,
+      "cached": false
+    },
+    {
+      "generation": 42,
+      "genome_id": 6060,
+      "training_fitness": 78.58665466308594,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.8643999999999996,
+      "mean_fitness": 77.54313659667969,
+      "cached": false
+    },
+    {
+      "generation": 42,
+      "genome_id": 5305,
+      "training_fitness": 78.10363006591797,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 42,
+      "genome_id": 6078,
+      "training_fitness": 76.72990417480469,
+      "catch_rate": 0.6,
+      "mean_catch_time_with_failures": 2.1784000000000003,
+      "mean_fitness": 60.70310592651367,
+      "cached": false
+    },
+    {
+      "generation": 43,
+      "genome_id": 4528,
+      "training_fitness": 96.03900909423828,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 43,
+      "genome_id": 5305,
+      "training_fitness": 77.82884216308594,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 43,
+      "genome_id": 6206,
+      "training_fitness": 72.55119323730469,
+      "catch_rate": 0.59,
+      "mean_catch_time_with_failures": 2.3048,
+      "mean_fitness": 59.440773010253906,
+      "cached": false
+    },
+    {
+      "generation": 43,
+      "genome_id": 6238,
+      "training_fitness": 72.33747863769531,
+      "catch_rate": 0.65,
+      "mean_catch_time_with_failures": 2.0851,
+      "mean_fitness": 65.7472152709961,
+      "cached": false
+    },
+    {
+      "generation": 43,
+      "genome_id": 6203,
+      "training_fitness": 72.17758178710938,
+      "catch_rate": 0.68,
+      "mean_catch_time_with_failures": 2.0176000000000003,
+      "mean_fitness": 68.93689727783203,
+      "cached": false
+    },
+    {
+      "generation": 44,
+      "genome_id": 4528,
+      "training_fitness": 94.51933288574219,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 44,
+      "genome_id": 5305,
+      "training_fitness": 75.9337387084961,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 44,
+      "genome_id": 6015,
+      "training_fitness": 70.96107482910156,
+      "catch_rate": 0.68,
+      "mean_catch_time_with_failures": 1.9021000000000001,
+      "mean_fitness": 68.9814453125,
+      "cached": false
+    },
+    {
+      "generation": 44,
+      "genome_id": 6296,
+      "training_fitness": 70.03600311279297,
+      "catch_rate": 0.64,
+      "mean_catch_time_with_failures": 2.1767,
+      "mean_fitness": 64.28600311279297,
+      "cached": false
+    },
+    {
+      "generation": 44,
+      "genome_id": 6324,
+      "training_fitness": 68.77284240722656,
+      "catch_rate": 0.72,
+      "mean_catch_time_with_failures": 2.0492000000000004,
+      "mean_fitness": 71.90145874023438,
+      "cached": false
+    },
+    {
+      "generation": 45,
+      "genome_id": 4528,
+      "training_fitness": 98.13093566894531,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 45,
+      "genome_id": 6473,
+      "training_fitness": 86.27549743652344,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.8133000000000004,
+      "mean_fitness": 78.30400848388672,
+      "cached": false
+    },
+    {
+      "generation": 45,
+      "genome_id": 6488,
+      "training_fitness": 83.68182373046875,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.7875,
+      "mean_fitness": 78.61492919921875,
+      "cached": false
+    },
+    {
+      "generation": 45,
+      "genome_id": 5305,
+      "training_fitness": 79.33615112304688,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8743,
+      "mean_fitness": 73.45789337158203,
+      "cached": true
+    },
+    {
+      "generation": 45,
+      "genome_id": 6516,
+      "training_fitness": 71.84422302246094,
+      "catch_rate": 0.6,
+      "mean_catch_time_with_failures": 2.2548,
+      "mean_fitness": 60.754791259765625,
+      "cached": false
+    },
+    {
+      "generation": 46,
+      "genome_id": 4528,
+      "training_fitness": 98.1356201171875,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 46,
+      "genome_id": 6473,
+      "training_fitness": 89.11030578613281,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.8133000000000004,
+      "mean_fitness": 78.30400848388672,
+      "cached": true
+    },
+    {
+      "generation": 46,
+      "genome_id": 6633,
+      "training_fitness": 82.39591979980469,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.9111000000000005,
+      "mean_fitness": 80.69092559814453,
+      "cached": false
+    },
+    {
+      "generation": 46,
+      "genome_id": 6623,
+      "training_fitness": 80.40740966796875,
+      "catch_rate": 0.75,
+      "mean_catch_time_with_failures": 2.0002,
+      "mean_fitness": 75.0029067993164,
+      "cached": false
+    },
+    {
+      "generation": 46,
+      "genome_id": 6597,
+      "training_fitness": 75.05924224853516,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.7002999999999997,
+      "mean_fitness": 85.2846450805664,
+      "cached": false
+    },
+    {
+      "generation": 47,
+      "genome_id": 4528,
+      "training_fitness": 94.30062866210938,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 47,
+      "genome_id": 6473,
+      "training_fitness": 85.87506103515625,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.8133000000000004,
+      "mean_fitness": 78.30400848388672,
+      "cached": true
+    },
+    {
+      "generation": 47,
+      "genome_id": 6757,
+      "training_fitness": 78.5421142578125,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 1.8494,
+      "mean_fitness": 74.62053680419922,
+      "cached": false
+    },
+    {
+      "generation": 47,
+      "genome_id": 6794,
+      "training_fitness": 75.61555480957031,
+      "catch_rate": 0.76,
+      "mean_catch_time_with_failures": 1.9671,
+      "mean_fitness": 76.3255615234375,
+      "cached": false
+    },
+    {
+      "generation": 47,
+      "genome_id": 6754,
+      "training_fitness": 68.09400939941406,
+      "catch_rate": 0.61,
+      "mean_catch_time_with_failures": 2.1686,
+      "mean_fitness": 61.89176940917969,
+      "cached": false
+    },
+    {
+      "generation": 48,
+      "genome_id": 4528,
+      "training_fitness": 96.33818054199219,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 48,
+      "genome_id": 6880,
+      "training_fitness": 90.40512084960938,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": false
+    },
+    {
+      "generation": 48,
+      "genome_id": 6473,
+      "training_fitness": 86.20789337158203,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.8133000000000004,
+      "mean_fitness": 78.30400848388672,
+      "cached": true
+    },
+    {
+      "generation": 48,
+      "genome_id": 6946,
+      "training_fitness": 82.50617980957031,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.9253999999999996,
+      "mean_fitness": 73.82459259033203,
+      "cached": false
+    },
+    {
+      "generation": 48,
+      "genome_id": 6893,
+      "training_fitness": 71.29827880859375,
+      "catch_rate": 0.67,
+      "mean_catch_time_with_failures": 2.0374,
+      "mean_fitness": 67.7369155883789,
+      "cached": false
+    },
+    {
+      "generation": 49,
+      "genome_id": 4528,
+      "training_fitness": 94.77468872070312,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 49,
+      "genome_id": 6880,
+      "training_fitness": 86.68328094482422,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 49,
+      "genome_id": 7055,
+      "training_fitness": 79.0250244140625,
+      "catch_rate": 0.79,
+      "mean_catch_time_with_failures": 2.0049,
+      "mean_fitness": 78.68307495117188,
+      "cached": false
+    },
+    {
+      "generation": 49,
+      "genome_id": 7014,
+      "training_fitness": 74.57351684570312,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.7309,
+      "mean_fitness": 78.71519470214844,
+      "cached": false
+    },
+    {
+      "generation": 49,
+      "genome_id": 7066,
+      "training_fitness": 72.47293090820312,
+      "catch_rate": 0.7,
+      "mean_catch_time_with_failures": 2.1071999999999997,
+      "mean_fitness": 70.33331298828125,
+      "cached": false
+    },
+    {
+      "generation": 50,
+      "genome_id": 4528,
+      "training_fitness": 95.44569396972656,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 50,
+      "genome_id": 6880,
+      "training_fitness": 91.41194152832031,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 50,
+      "genome_id": 7223,
+      "training_fitness": 87.17817687988281,
+      "catch_rate": 0.76,
+      "mean_catch_time_with_failures": 2.0235000000000003,
+      "mean_fitness": 76.06031036376953,
+      "cached": false
+    },
+    {
+      "generation": 50,
+      "genome_id": 7169,
+      "training_fitness": 84.49421691894531,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.9940000000000004,
+      "mean_fitness": 79.80384063720703,
+      "cached": false
+    },
+    {
+      "generation": 50,
+      "genome_id": 7014,
+      "training_fitness": 73.91703796386719,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.7309,
+      "mean_fitness": 78.71519470214844,
+      "cached": true
+    },
+    {
+      "generation": 51,
+      "genome_id": 4528,
+      "training_fitness": 97.97077941894531,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 51,
+      "genome_id": 6880,
+      "training_fitness": 92.88697814941406,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 51,
+      "genome_id": 7312,
+      "training_fitness": 81.59365844726562,
+      "catch_rate": 0.82,
+      "mean_catch_time_with_failures": 1.9113,
+      "mean_fitness": 81.89200592041016,
+      "cached": false
+    },
+    {
+      "generation": 51,
+      "genome_id": 7358,
+      "training_fitness": 79.05128479003906,
+      "catch_rate": 0.72,
+      "mean_catch_time_with_failures": 1.9165999999999999,
+      "mean_fitness": 72.49870300292969,
+      "cached": false
+    },
+    {
+      "generation": 51,
+      "genome_id": 7320,
+      "training_fitness": 77.26417541503906,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.9758000000000002,
+      "mean_fitness": 79.78971099853516,
+      "cached": false
+    },
+    {
+      "generation": 52,
+      "genome_id": 4528,
+      "training_fitness": 97.11530303955078,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 52,
+      "genome_id": 6880,
+      "training_fitness": 88.21549987792969,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 52,
+      "genome_id": 7014,
+      "training_fitness": 76.23389434814453,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.7309,
+      "mean_fitness": 78.71519470214844,
+      "cached": true
+    },
+    {
+      "generation": 52,
+      "genome_id": 7471,
+      "training_fitness": 73.07278442382812,
+      "catch_rate": 0.62,
+      "mean_catch_time_with_failures": 2.2096999999999998,
+      "mean_fitness": 62.25547409057617,
+      "cached": false
+    },
+    {
+      "generation": 52,
+      "genome_id": 7511,
+      "training_fitness": 72.02888488769531,
+      "catch_rate": 0.6,
+      "mean_catch_time_with_failures": 2.0838,
+      "mean_fitness": 61.168521881103516,
+      "cached": false
+    },
+    {
+      "generation": 53,
+      "genome_id": 4528,
+      "training_fitness": 96.031494140625,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 53,
+      "genome_id": 6880,
+      "training_fitness": 88.15696716308594,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 53,
+      "genome_id": 7628,
+      "training_fitness": 85.21916198730469,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.4822000000000002,
+      "mean_fitness": 87.02124786376953,
+      "cached": false
+    },
+    {
+      "generation": 53,
+      "genome_id": 7647,
+      "training_fitness": 82.11947631835938,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 2.1119000000000003,
+      "mean_fitness": 77.58612823486328,
+      "cached": false
+    },
+    {
+      "generation": 53,
+      "genome_id": 7662,
+      "training_fitness": 77.99019622802734,
+      "catch_rate": 0.59,
+      "mean_catch_time_with_failures": 2.1606,
+      "mean_fitness": 60.098388671875,
+      "cached": false
+    },
+    {
+      "generation": 54,
+      "genome_id": 4528,
+      "training_fitness": 95.92596435546875,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 54,
+      "genome_id": 6880,
+      "training_fitness": 91.20359802246094,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 54,
+      "genome_id": 7758,
+      "training_fitness": 77.38870239257812,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.9512999999999996,
+      "mean_fitness": 77.98938751220703,
+      "cached": false
+    },
+    {
+      "generation": 54,
+      "genome_id": 7782,
+      "training_fitness": 76.30095672607422,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 1.9613,
+      "mean_fitness": 71.56790161132812,
+      "cached": false
+    },
+    {
+      "generation": 54,
+      "genome_id": 7753,
+      "training_fitness": 75.68560791015625,
+      "catch_rate": 0.64,
+      "mean_catch_time_with_failures": 2.3962,
+      "mean_fitness": 63.71180725097656,
+      "cached": false
+    },
+    {
+      "generation": 55,
+      "genome_id": 4528,
+      "training_fitness": 93.89823913574219,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 55,
+      "genome_id": 6880,
+      "training_fitness": 91.07556915283203,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 55,
+      "genome_id": 7851,
+      "training_fitness": 77.91050720214844,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7091,
+      "mean_fitness": 80.34688568115234,
+      "cached": false
+    },
+    {
+      "generation": 55,
+      "genome_id": 7014,
+      "training_fitness": 74.0648193359375,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.7309,
+      "mean_fitness": 78.71519470214844,
+      "cached": true
+    },
+    {
+      "generation": 55,
+      "genome_id": 7897,
+      "training_fitness": 71.50344848632812,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.8642,
+      "mean_fitness": 78.1562728881836,
+      "cached": false
+    },
+    {
+      "generation": 56,
+      "genome_id": 4528,
+      "training_fitness": 98.51637268066406,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 56,
+      "genome_id": 6880,
+      "training_fitness": 89.82837677001953,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 56,
+      "genome_id": 7851,
+      "training_fitness": 83.37308502197266,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7091,
+      "mean_fitness": 80.34688568115234,
+      "cached": true
+    },
+    {
+      "generation": 56,
+      "genome_id": 8008,
+      "training_fitness": 79.2855453491211,
+      "catch_rate": 0.76,
+      "mean_catch_time_with_failures": 2.0115000000000003,
+      "mean_fitness": 75.9059829711914,
+      "cached": false
+    },
+    {
+      "generation": 56,
+      "genome_id": 8039,
+      "training_fitness": 79.02928161621094,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 2.1111,
+      "mean_fitness": 73.6768569946289,
+      "cached": false
+    },
+    {
+      "generation": 57,
+      "genome_id": 4528,
+      "training_fitness": 95.52691650390625,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 57,
+      "genome_id": 6880,
+      "training_fitness": 87.85011291503906,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 57,
+      "genome_id": 8199,
+      "training_fitness": 77.3826904296875,
+      "catch_rate": 0.7,
+      "mean_catch_time_with_failures": 1.9919000000000002,
+      "mean_fitness": 70.84538269042969,
+      "cached": false
+    },
+    {
+      "generation": 57,
+      "genome_id": 8156,
+      "training_fitness": 73.29000854492188,
+      "catch_rate": 0.72,
+      "mean_catch_time_with_failures": 1.9818000000000005,
+      "mean_fitness": 72.35429382324219,
+      "cached": false
+    },
+    {
+      "generation": 57,
+      "genome_id": 8203,
+      "training_fitness": 73.07830810546875,
+      "catch_rate": 0.7,
+      "mean_catch_time_with_failures": 2.0957999999999997,
+      "mean_fitness": 70.47565460205078,
+      "cached": false
+    },
+    {
+      "generation": 58,
+      "genome_id": 4528,
+      "training_fitness": 96.44137573242188,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 58,
+      "genome_id": 6880,
+      "training_fitness": 89.75196838378906,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 58,
+      "genome_id": 8312,
+      "training_fitness": 77.29072570800781,
+      "catch_rate": 0.67,
+      "mean_catch_time_with_failures": 2.0509,
+      "mean_fitness": 67.77783203125,
+      "cached": false
+    },
+    {
+      "generation": 58,
+      "genome_id": 7851,
+      "training_fitness": 75.09984588623047,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7091,
+      "mean_fitness": 80.34688568115234,
+      "cached": true
+    },
+    {
+      "generation": 58,
+      "genome_id": 8375,
+      "training_fitness": 75.00865173339844,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 1.9989999999999997,
+      "mean_fitness": 74.11625671386719,
+      "cached": false
+    },
+    {
+      "generation": 59,
+      "genome_id": 4528,
+      "training_fitness": 96.96647644042969,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 59,
+      "genome_id": 6880,
+      "training_fitness": 89.8853759765625,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 59,
+      "genome_id": 8459,
+      "training_fitness": 88.4637680053711,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.7678,
+      "mean_fitness": 85.79248046875,
+      "cached": false
+    },
+    {
+      "generation": 59,
+      "genome_id": 8474,
+      "training_fitness": 85.73667907714844,
+      "catch_rate": 0.79,
+      "mean_catch_time_with_failures": 1.8182,
+      "mean_fitness": 79.19286346435547,
+      "cached": false
+    },
+    {
+      "generation": 59,
+      "genome_id": 8435,
+      "training_fitness": 85.36166381835938,
+      "catch_rate": 0.83,
+      "mean_catch_time_with_failures": 1.6859,
+      "mean_fitness": 83.4231948852539,
+      "cached": false
+    },
+    {
+      "generation": 60,
+      "genome_id": 4528,
+      "training_fitness": 96.1222152709961,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 60,
+      "genome_id": 6880,
+      "training_fitness": 88.68609619140625,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 60,
+      "genome_id": 8596,
+      "training_fitness": 87.21708679199219,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 1.8292999999999997,
+      "mean_fitness": 74.6942367553711,
+      "cached": false
+    },
+    {
+      "generation": 60,
+      "genome_id": 8551,
+      "training_fitness": 82.86051177978516,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7858,
+      "mean_fitness": 79.98820495605469,
+      "cached": false
+    },
+    {
+      "generation": 60,
+      "genome_id": 8610,
+      "training_fitness": 82.64895629882812,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.8426000000000002,
+      "mean_fitness": 73.79953002929688,
+      "cached": false
+    },
+    {
+      "generation": 61,
+      "genome_id": 4528,
+      "training_fitness": 96.15847778320312,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 61,
+      "genome_id": 6880,
+      "training_fitness": 89.52891540527344,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 61,
+      "genome_id": 8551,
+      "training_fitness": 86.06249237060547,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7858,
+      "mean_fitness": 79.98820495605469,
+      "cached": true
+    },
+    {
+      "generation": 61,
+      "genome_id": 8683,
+      "training_fitness": 83.35696411132812,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.7787,
+      "mean_fitness": 77.50383758544922,
+      "cached": false
+    },
+    {
+      "generation": 61,
+      "genome_id": 8732,
+      "training_fitness": 80.44331359863281,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.8854000000000002,
+      "mean_fitness": 78.26530456542969,
+      "cached": false
+    },
+    {
+      "generation": 62,
+      "genome_id": 4528,
+      "training_fitness": 97.6912841796875,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 62,
+      "genome_id": 6880,
+      "training_fitness": 93.19815063476562,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 62,
+      "genome_id": 8914,
+      "training_fitness": 88.06427001953125,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.8543,
+      "mean_fitness": 81.22332763671875,
+      "cached": false
+    },
+    {
+      "generation": 62,
+      "genome_id": 8551,
+      "training_fitness": 83.04557800292969,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7858,
+      "mean_fitness": 79.98820495605469,
+      "cached": true
+    },
+    {
+      "generation": 62,
+      "genome_id": 8894,
+      "training_fitness": 78.43106842041016,
+      "catch_rate": 0.75,
+      "mean_catch_time_with_failures": 1.781,
+      "mean_fitness": 75.89668273925781,
+      "cached": false
+    },
+    {
+      "generation": 63,
+      "genome_id": 4528,
+      "training_fitness": 97.89717864990234,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 63,
+      "genome_id": 6880,
+      "training_fitness": 90.52665710449219,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 63,
+      "genome_id": 8551,
+      "training_fitness": 81.07841491699219,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7858,
+      "mean_fitness": 79.98820495605469,
+      "cached": true
+    },
+    {
+      "generation": 63,
+      "genome_id": 9068,
+      "training_fitness": 80.9775390625,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 1.7946,
+      "mean_fitness": 77.7947769165039,
+      "cached": false
+    },
+    {
+      "generation": 63,
+      "genome_id": 9041,
+      "training_fitness": 75.91949462890625,
+      "catch_rate": 0.69,
+      "mean_catch_time_with_failures": 1.8032000000000001,
+      "mean_fitness": 70.20614624023438,
+      "cached": false
+    },
+    {
+      "generation": 64,
+      "genome_id": 4528,
+      "training_fitness": 95.30360412597656,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 64,
+      "genome_id": 6880,
+      "training_fitness": 91.9979248046875,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 64,
+      "genome_id": 8551,
+      "training_fitness": 85.099365234375,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7858,
+      "mean_fitness": 79.98820495605469,
+      "cached": true
+    },
+    {
+      "generation": 64,
+      "genome_id": 9125,
+      "training_fitness": 79.68495178222656,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 2.0999,
+      "mean_fitness": 73.49075317382812,
+      "cached": false
+    },
+    {
+      "generation": 64,
+      "genome_id": 9169,
+      "training_fitness": 77.74974060058594,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7858999999999998,
+      "mean_fitness": 81.26181030273438,
+      "cached": false
+    },
+    {
+      "generation": 65,
+      "genome_id": 4528,
+      "training_fitness": 96.51228332519531,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 65,
+      "genome_id": 9341,
+      "training_fitness": 92.05606079101562,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": false
+    },
+    {
+      "generation": 65,
+      "genome_id": 6880,
+      "training_fitness": 90.03111267089844,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7689999999999997,
+      "mean_fitness": 81.27513885498047,
+      "cached": true
+    },
+    {
+      "generation": 65,
+      "genome_id": 9360,
+      "training_fitness": 81.79943084716797,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 1.8891999999999998,
+      "mean_fitness": 74.74974822998047,
+      "cached": false
+    },
+    {
+      "generation": 65,
+      "genome_id": 8551,
+      "training_fitness": 79.64035034179688,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7858,
+      "mean_fitness": 79.98820495605469,
+      "cached": true
+    },
+    {
+      "generation": 66,
+      "genome_id": 4528,
+      "training_fitness": 95.64865112304688,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 66,
+      "genome_id": 9341,
+      "training_fitness": 90.87918090820312,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 66,
+      "genome_id": 9540,
+      "training_fitness": 82.88471984863281,
+      "catch_rate": 0.77,
+      "mean_catch_time_with_failures": 2.0273999999999996,
+      "mean_fitness": 76.8083267211914,
+      "cached": false
+    },
+    {
+      "generation": 66,
+      "genome_id": 8551,
+      "training_fitness": 81.94630432128906,
+      "catch_rate": 0.8,
+      "mean_catch_time_with_failures": 1.7858,
+      "mean_fitness": 79.98820495605469,
+      "cached": true
+    },
+    {
+      "generation": 66,
+      "genome_id": 9536,
+      "training_fitness": 81.82398986816406,
+      "catch_rate": 0.75,
+      "mean_catch_time_with_failures": 1.7978,
+      "mean_fitness": 75.96858215332031,
+      "cached": false
+    },
+    {
+      "generation": 67,
+      "genome_id": 4528,
+      "training_fitness": 96.13455200195312,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 67,
+      "genome_id": 9653,
+      "training_fitness": 90.7249526977539,
+      "catch_rate": 0.79,
+      "mean_catch_time_with_failures": 1.7042000000000004,
+      "mean_fitness": 79.95858764648438,
+      "cached": false
+    },
+    {
+      "generation": 67,
+      "genome_id": 9341,
+      "training_fitness": 89.92864227294922,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 67,
+      "genome_id": 9589,
+      "training_fitness": 85.3436508178711,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.7682,
+      "mean_fitness": 85.76896667480469,
+      "cached": false
+    },
+    {
+      "generation": 67,
+      "genome_id": 9590,
+      "training_fitness": 82.46914672851562,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7146000000000001,
+      "mean_fitness": 81.32154846191406,
+      "cached": false
+    },
+    {
+      "generation": 68,
+      "genome_id": 4528,
+      "training_fitness": 95.69841766357422,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 68,
+      "genome_id": 9341,
+      "training_fitness": 89.64523315429688,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 68,
+      "genome_id": 9803,
+      "training_fitness": 86.22308349609375,
+      "catch_rate": 0.78,
+      "mean_catch_time_with_failures": 1.6461999999999997,
+      "mean_fitness": 79.27225494384766,
+      "cached": false
+    },
+    {
+      "generation": 68,
+      "genome_id": 9697,
+      "training_fitness": 85.02719116210938,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 1.6580000000000001,
+      "mean_fitness": 75.21465301513672,
+      "cached": false
+    },
+    {
+      "generation": 68,
+      "genome_id": 9748,
+      "training_fitness": 81.86558532714844,
+      "catch_rate": 0.71,
+      "mean_catch_time_with_failures": 1.8803,
+      "mean_fitness": 71.93074035644531,
+      "cached": false
+    },
+    {
+      "generation": 69,
+      "genome_id": 4528,
+      "training_fitness": 95.18531036376953,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 69,
+      "genome_id": 9950,
+      "training_fitness": 92.92549896240234,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.3387999999999998,
+      "mean_fitness": 97.44680786132812,
+      "cached": false
+    },
+    {
+      "generation": 69,
+      "genome_id": 9921,
+      "training_fitness": 92.79681396484375,
+      "catch_rate": 0.93,
+      "mean_catch_time_with_failures": 1.2395,
+      "mean_fitness": 94.16323852539062,
+      "cached": false
+    },
+    {
+      "generation": 69,
+      "genome_id": 9341,
+      "training_fitness": 90.40390014648438,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 69,
+      "genome_id": 9962,
+      "training_fitness": 88.401123046875,
+      "catch_rate": 0.75,
+      "mean_catch_time_with_failures": 1.8062000000000002,
+      "mean_fitness": 75.97516632080078,
+      "cached": false
+    },
+    {
+      "generation": 70,
+      "genome_id": 4528,
+      "training_fitness": 96.78756713867188,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 70,
+      "genome_id": 10092,
+      "training_fitness": 92.35964965820312,
+      "catch_rate": 0.88,
+      "mean_catch_time_with_failures": 1.5442000000000002,
+      "mean_fitness": 88.65196990966797,
+      "cached": false
+    },
+    {
+      "generation": 70,
+      "genome_id": 10094,
+      "training_fitness": 91.57815551757812,
+      "catch_rate": 0.73,
+      "mean_catch_time_with_failures": 1.6357000000000002,
+      "mean_fitness": 74.78135681152344,
+      "cached": false
+    },
+    {
+      "generation": 70,
+      "genome_id": 9341,
+      "training_fitness": 90.95674133300781,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 70,
+      "genome_id": 10090,
+      "training_fitness": 87.97557067871094,
+      "catch_rate": 0.75,
+      "mean_catch_time_with_failures": 2.0816,
+      "mean_fitness": 74.7330093383789,
+      "cached": false
+    },
+    {
+      "generation": 71,
+      "genome_id": 4528,
+      "training_fitness": 95.24606323242188,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 71,
+      "genome_id": 9341,
+      "training_fitness": 89.58668518066406,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 71,
+      "genome_id": 10249,
+      "training_fitness": 88.2298583984375,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.5779000000000003,
+      "mean_fitness": 82.1969223022461,
+      "cached": false
+    },
+    {
+      "generation": 71,
+      "genome_id": 9697,
+      "training_fitness": 87.7536392211914,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 1.6580000000000001,
+      "mean_fitness": 75.21465301513672,
+      "cached": true
+    },
+    {
+      "generation": 71,
+      "genome_id": 10194,
+      "training_fitness": 83.19564056396484,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5741,
+      "mean_fitness": 85.52255249023438,
+      "cached": false
+    },
+    {
+      "generation": 72,
+      "genome_id": 4528,
+      "training_fitness": 96.57501983642578,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 72,
+      "genome_id": 9341,
+      "training_fitness": 95.31217956542969,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 72,
+      "genome_id": 10385,
+      "training_fitness": 92.80532836914062,
+      "catch_rate": 0.82,
+      "mean_catch_time_with_failures": 1.7024000000000004,
+      "mean_fitness": 82.69424438476562,
+      "cached": false
+    },
+    {
+      "generation": 72,
+      "genome_id": 9697,
+      "training_fitness": 88.40350341796875,
+      "catch_rate": 0.74,
+      "mean_catch_time_with_failures": 1.6580000000000001,
+      "mean_fitness": 75.21465301513672,
+      "cached": true
+    },
+    {
+      "generation": 72,
+      "genome_id": 10328,
+      "training_fitness": 87.32377624511719,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.8407000000000002,
+      "mean_fitness": 81.13267517089844,
+      "cached": false
+    },
+    {
+      "generation": 73,
+      "genome_id": 4528,
+      "training_fitness": 94.46121978759766,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 73,
+      "genome_id": 10545,
+      "training_fitness": 93.78001403808594,
+      "catch_rate": 0.83,
+      "mean_catch_time_with_failures": 1.7782000000000002,
+      "mean_fitness": 83.30887603759766,
+      "cached": false
+    },
+    {
+      "generation": 73,
+      "genome_id": 10524,
+      "training_fitness": 91.64226531982422,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.6688,
+      "mean_fitness": 81.88460540771484,
+      "cached": false
+    },
+    {
+      "generation": 73,
+      "genome_id": 10469,
+      "training_fitness": 90.35706329345703,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": false
+    },
+    {
+      "generation": 73,
+      "genome_id": 9341,
+      "training_fitness": 87.83560180664062,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 74,
+      "genome_id": 4528,
+      "training_fitness": 94.87782287597656,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 74,
+      "genome_id": 10469,
+      "training_fitness": 91.37535858154297,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 74,
+      "genome_id": 9341,
+      "training_fitness": 88.77850341796875,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 74,
+      "genome_id": 10586,
+      "training_fitness": 83.9355697631836,
+      "catch_rate": 0.82,
+      "mean_catch_time_with_failures": 1.8792,
+      "mean_fitness": 81.89527130126953,
+      "cached": false
+    },
+    {
+      "generation": 74,
+      "genome_id": 10584,
+      "training_fitness": 83.4087142944336,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.7696,
+      "mean_fitness": 84.98298645019531,
+      "cached": false
+    },
+    {
+      "generation": 75,
+      "genome_id": 4528,
+      "training_fitness": 94.18408203125,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 75,
+      "genome_id": 10469,
+      "training_fitness": 92.5897216796875,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 75,
+      "genome_id": 9341,
+      "training_fitness": 90.88128662109375,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 75,
+      "genome_id": 10774,
+      "training_fitness": 84.77555847167969,
+      "catch_rate": 0.7,
+      "mean_catch_time_with_failures": 1.8810999999999998,
+      "mean_fitness": 71.00141906738281,
+      "cached": false
+    },
+    {
+      "generation": 75,
+      "genome_id": 10733,
+      "training_fitness": 83.37555694580078,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.7588,
+      "mean_fitness": 81.53665924072266,
+      "cached": false
+    },
+    {
+      "generation": 76,
+      "genome_id": 4528,
+      "training_fitness": 96.1656723022461,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 76,
+      "genome_id": 10469,
+      "training_fitness": 92.59300231933594,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 76,
+      "genome_id": 10866,
+      "training_fitness": 90.88512420654297,
+      "catch_rate": 0.91,
+      "mean_catch_time_with_failures": 1.7790000000000001,
+      "mean_fitness": 90.50497436523438,
+      "cached": false
+    },
+    {
+      "generation": 76,
+      "genome_id": 9341,
+      "training_fitness": 89.34197998046875,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 76,
+      "genome_id": 10925,
+      "training_fitness": 88.05618286132812,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.6332999999999998,
+      "mean_fitness": 84.59678649902344,
+      "cached": false
+    },
+    {
+      "generation": 77,
+      "genome_id": 4528,
+      "training_fitness": 97.55316925048828,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 77,
+      "genome_id": 11012,
+      "training_fitness": 95.80209350585938,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": false
+    },
+    {
+      "generation": 77,
+      "genome_id": 11068,
+      "training_fitness": 94.4772720336914,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.7620999999999998,
+      "mean_fitness": 86.068359375,
+      "cached": false
+    },
+    {
+      "generation": 77,
+      "genome_id": 9341,
+      "training_fitness": 93.59675598144531,
+      "catch_rate": 0.85,
+      "mean_catch_time_with_failures": 1.5301000000000002,
+      "mean_fitness": 85.7667007446289,
+      "cached": true
+    },
+    {
+      "generation": 77,
+      "genome_id": 11070,
+      "training_fitness": 93.43769073486328,
+      "catch_rate": 0.88,
+      "mean_catch_time_with_failures": 1.4838,
+      "mean_fitness": 88.8117446899414,
+      "cached": false
+    },
+    {
+      "generation": 78,
+      "genome_id": 4528,
+      "training_fitness": 97.10783386230469,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 78,
+      "genome_id": 11012,
+      "training_fitness": 95.3172607421875,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 78,
+      "genome_id": 11227,
+      "training_fitness": 93.48298645019531,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.7141,
+      "mean_fitness": 86.09439086914062,
+      "cached": false
+    },
+    {
+      "generation": 78,
+      "genome_id": 10469,
+      "training_fitness": 93.43136596679688,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 78,
+      "genome_id": 11068,
+      "training_fitness": 92.95697021484375,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.7620999999999998,
+      "mean_fitness": 86.068359375,
+      "cached": true
+    },
+    {
+      "generation": 79,
+      "genome_id": 4528,
+      "training_fitness": 98.6927490234375,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 79,
+      "genome_id": 11328,
+      "training_fitness": 97.78555297851562,
+      "catch_rate": 0.94,
+      "mean_catch_time_with_failures": 1.4179,
+      "mean_fitness": 94.4505844116211,
+      "cached": false
+    },
+    {
+      "generation": 79,
+      "genome_id": 11012,
+      "training_fitness": 96.44728088378906,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 79,
+      "genome_id": 11323,
+      "training_fitness": 94.26669311523438,
+      "catch_rate": 0.87,
+      "mean_catch_time_with_failures": 1.68,
+      "mean_fitness": 87.24107360839844,
+      "cached": false
+    },
+    {
+      "generation": 79,
+      "genome_id": 11068,
+      "training_fitness": 93.44221496582031,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.7620999999999998,
+      "mean_fitness": 86.068359375,
+      "cached": true
+    },
+    {
+      "generation": 80,
+      "genome_id": 11012,
+      "training_fitness": 95.12413024902344,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 80,
+      "genome_id": 11328,
+      "training_fitness": 94.77152252197266,
+      "catch_rate": 0.94,
+      "mean_catch_time_with_failures": 1.4179,
+      "mean_fitness": 94.4505844116211,
+      "cached": true
+    },
+    {
+      "generation": 80,
+      "genome_id": 4528,
+      "training_fitness": 94.47439575195312,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 80,
+      "genome_id": 10469,
+      "training_fitness": 90.53913879394531,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 80,
+      "genome_id": 11514,
+      "training_fitness": 90.24861145019531,
+      "catch_rate": 0.81,
+      "mean_catch_time_with_failures": 1.8737999999999997,
+      "mean_fitness": 81.11579895019531,
+      "cached": false
+    },
+    {
+      "generation": 81,
+      "genome_id": 4528,
+      "training_fitness": 96.93986511230469,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 81,
+      "genome_id": 11328,
+      "training_fitness": 96.135498046875,
+      "catch_rate": 0.94,
+      "mean_catch_time_with_failures": 1.4179,
+      "mean_fitness": 94.4505844116211,
+      "cached": true
+    },
+    {
+      "generation": 81,
+      "genome_id": 11686,
+      "training_fitness": 94.60795593261719,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.3784000000000003,
+      "mean_fitness": 95.49346923828125,
+      "cached": false
+    },
+    {
+      "generation": 81,
+      "genome_id": 11012,
+      "training_fitness": 92.34710693359375,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 81,
+      "genome_id": 10469,
+      "training_fitness": 91.46961975097656,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 82,
+      "genome_id": 11328,
+      "training_fitness": 97.19618225097656,
+      "catch_rate": 0.94,
+      "mean_catch_time_with_failures": 1.4179,
+      "mean_fitness": 94.4505844116211,
+      "cached": true
+    },
+    {
+      "generation": 82,
+      "genome_id": 4528,
+      "training_fitness": 96.96139526367188,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 82,
+      "genome_id": 11803,
+      "training_fitness": 95.38855743408203,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4512,
+      "mean_fitness": 95.24071502685547,
+      "cached": false
+    },
+    {
+      "generation": 82,
+      "genome_id": 11012,
+      "training_fitness": 95.17557525634766,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 82,
+      "genome_id": 11816,
+      "training_fitness": 94.69906616210938,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4775000000000003,
+      "mean_fitness": 92.29900360107422,
+      "cached": false
+    },
+    {
+      "generation": 83,
+      "genome_id": 4528,
+      "training_fitness": 97.71426391601562,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 83,
+      "genome_id": 11328,
+      "training_fitness": 96.91146850585938,
+      "catch_rate": 0.94,
+      "mean_catch_time_with_failures": 1.4179,
+      "mean_fitness": 94.4505844116211,
+      "cached": true
+    },
+    {
+      "generation": 83,
+      "genome_id": 11983,
+      "training_fitness": 95.14749908447266,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4908000000000001,
+      "mean_fitness": 95.08474731445312,
+      "cached": false
+    },
+    {
+      "generation": 83,
+      "genome_id": 11012,
+      "training_fitness": 92.55647277832031,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 83,
+      "genome_id": 11986,
+      "training_fitness": 91.79193115234375,
+      "catch_rate": 0.86,
+      "mean_catch_time_with_failures": 1.5509,
+      "mean_fitness": 86.63357543945312,
+      "cached": false
+    },
+    {
+      "generation": 84,
+      "genome_id": 12096,
+      "training_fitness": 98.30474853515625,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": false
+    },
+    {
+      "generation": 84,
+      "genome_id": 11328,
+      "training_fitness": 96.96601867675781,
+      "catch_rate": 0.94,
+      "mean_catch_time_with_failures": 1.4179,
+      "mean_fitness": 94.4505844116211,
+      "cached": true
+    },
+    {
+      "generation": 84,
+      "genome_id": 4528,
+      "training_fitness": 95.81307983398438,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 84,
+      "genome_id": 11012,
+      "training_fitness": 93.53477478027344,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 84,
+      "genome_id": 12100,
+      "training_fitness": 92.69297790527344,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5301999999999998,
+      "mean_fitness": 90.46470642089844,
+      "cached": false
+    },
+    {
+      "generation": 85,
+      "genome_id": 12096,
+      "training_fitness": 98.69770050048828,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 85,
+      "genome_id": 4528,
+      "training_fitness": 94.58651733398438,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 85,
+      "genome_id": 11012,
+      "training_fitness": 93.81840515136719,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 85,
+      "genome_id": 10469,
+      "training_fitness": 93.75358581542969,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 85,
+      "genome_id": 12103,
+      "training_fitness": 93.3767318725586,
+      "catch_rate": 0.89,
+      "mean_catch_time_with_failures": 1.5940000000000003,
+      "mean_fitness": 89.32310485839844,
+      "cached": false
+    },
+    {
+      "generation": 86,
+      "genome_id": 12096,
+      "training_fitness": 97.31791687011719,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 86,
+      "genome_id": 4528,
+      "training_fitness": 97.27445983886719,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 86,
+      "genome_id": 12302,
+      "training_fitness": 95.36166381835938,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5203000000000002,
+      "mean_fitness": 90.49212646484375,
+      "cached": false
+    },
+    {
+      "generation": 86,
+      "genome_id": 11012,
+      "training_fitness": 92.97674560546875,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 86,
+      "genome_id": 10469,
+      "training_fitness": 90.86964416503906,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 87,
+      "genome_id": 12096,
+      "training_fitness": 98.07940673828125,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 87,
+      "genome_id": 4528,
+      "training_fitness": 97.7359848022461,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 87,
+      "genome_id": 11012,
+      "training_fitness": 95.98069763183594,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 87,
+      "genome_id": 10469,
+      "training_fitness": 94.33372497558594,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 87,
+      "genome_id": 12302,
+      "training_fitness": 94.09439086914062,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5203000000000002,
+      "mean_fitness": 90.49212646484375,
+      "cached": true
+    },
+    {
+      "generation": 88,
+      "genome_id": 4528,
+      "training_fitness": 97.55050659179688,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 88,
+      "genome_id": 12096,
+      "training_fitness": 97.37763977050781,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 88,
+      "genome_id": 12302,
+      "training_fitness": 93.22770690917969,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5203000000000002,
+      "mean_fitness": 90.49212646484375,
+      "cached": true
+    },
+    {
+      "generation": 88,
+      "genome_id": 11012,
+      "training_fitness": 93.11209869384766,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 88,
+      "genome_id": 10469,
+      "training_fitness": 91.33998107910156,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 89,
+      "genome_id": 12096,
+      "training_fitness": 96.58937072753906,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 89,
+      "genome_id": 4528,
+      "training_fitness": 95.18250274658203,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 89,
+      "genome_id": 12302,
+      "training_fitness": 92.42724609375,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5203000000000002,
+      "mean_fitness": 90.49212646484375,
+      "cached": true
+    },
+    {
+      "generation": 89,
+      "genome_id": 10469,
+      "training_fitness": 91.87727355957031,
+      "catch_rate": 0.84,
+      "mean_catch_time_with_failures": 1.7232000000000003,
+      "mean_fitness": 84.10313415527344,
+      "cached": true
+    },
+    {
+      "generation": 89,
+      "genome_id": 11012,
+      "training_fitness": 91.62286376953125,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 90,
+      "genome_id": 12096,
+      "training_fitness": 97.79414367675781,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 90,
+      "genome_id": 11012,
+      "training_fitness": 95.886474609375,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 90,
+      "genome_id": 12302,
+      "training_fitness": 95.14875793457031,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5203000000000002,
+      "mean_fitness": 90.49212646484375,
+      "cached": true
+    },
+    {
+      "generation": 90,
+      "genome_id": 4528,
+      "training_fitness": 94.644775390625,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 90,
+      "genome_id": 13012,
+      "training_fitness": 93.90435028076172,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4009999999999996,
+      "mean_fitness": 92.66926574707031,
+      "cached": false
+    },
+    {
+      "generation": 91,
+      "genome_id": 12096,
+      "training_fitness": 97.02597045898438,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 91,
+      "genome_id": 12302,
+      "training_fitness": 95.23294067382812,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5203000000000002,
+      "mean_fitness": 90.49212646484375,
+      "cached": true
+    },
+    {
+      "generation": 91,
+      "genome_id": 4528,
+      "training_fitness": 95.04891967773438,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 91,
+      "genome_id": 11012,
+      "training_fitness": 94.99491119384766,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 91,
+      "genome_id": 13126,
+      "training_fitness": 93.25739288330078,
+      "catch_rate": 0.88,
+      "mean_catch_time_with_failures": 1.7421000000000004,
+      "mean_fitness": 87.78201293945312,
+      "cached": false
+    },
+    {
+      "generation": 92,
+      "genome_id": 12096,
+      "training_fitness": 97.96529388427734,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 92,
+      "genome_id": 13284,
+      "training_fitness": 96.39550018310547,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.5604000000000002,
+      "mean_fitness": 95.7369155883789,
+      "cached": false
+    },
+    {
+      "generation": 92,
+      "genome_id": 4528,
+      "training_fitness": 96.17491149902344,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 92,
+      "genome_id": 13174,
+      "training_fitness": 95.31254577636719,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5176000000000003,
+      "mean_fitness": 90.3053970336914,
+      "cached": false
+    },
+    {
+      "generation": 92,
+      "genome_id": 12302,
+      "training_fitness": 94.46377563476562,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5203000000000002,
+      "mean_fitness": 90.49212646484375,
+      "cached": true
+    },
+    {
+      "generation": 93,
+      "genome_id": 13435,
+      "training_fitness": 96.19009399414062,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.3669000000000002,
+      "mean_fitness": 95.54271697998047,
+      "cached": false
+    },
+    {
+      "generation": 93,
+      "genome_id": 12096,
+      "training_fitness": 96.01220703125,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.2661,
+      "mean_fitness": 96.7966537475586,
+      "cached": true
+    },
+    {
+      "generation": 93,
+      "genome_id": 11012,
+      "training_fitness": 95.81986236572266,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 93,
+      "genome_id": 4528,
+      "training_fitness": 95.80030822753906,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 93,
+      "genome_id": 13174,
+      "training_fitness": 91.02983093261719,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5176000000000003,
+      "mean_fitness": 90.3053970336914,
+      "cached": true
+    },
+    {
+      "generation": 94,
+      "genome_id": 13435,
+      "training_fitness": 97.3765640258789,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.3669000000000002,
+      "mean_fitness": 95.54271697998047,
+      "cached": true
+    },
+    {
+      "generation": 94,
+      "genome_id": 13476,
+      "training_fitness": 97.334228515625,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.2943000000000005,
+      "mean_fitness": 97.6029281616211,
+      "cached": false
+    },
+    {
+      "generation": 94,
+      "genome_id": 11012,
+      "training_fitness": 95.141845703125,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4393,
+      "mean_fitness": 92.43146514892578,
+      "cached": true
+    },
+    {
+      "generation": 94,
+      "genome_id": 4528,
+      "training_fitness": 94.84370422363281,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4222,
+      "mean_fitness": 95.32145690917969,
+      "cached": true
+    },
+    {
+      "generation": 94,
+      "genome_id": 13174,
+      "training_fitness": 94.72537231445312,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5176000000000003,
+      "mean_fitness": 90.3053970336914,
+      "cached": true
+    },
+    {
+      "generation": 95,
+      "genome_id": 13476,
+      "training_fitness": 96.90190124511719,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.2943000000000005,
+      "mean_fitness": 97.6029281616211,
+      "cached": true
+    },
+    {
+      "generation": 95,
+      "genome_id": 13435,
+      "training_fitness": 96.64948272705078,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.3669000000000002,
+      "mean_fitness": 95.54271697998047,
+      "cached": true
+    },
+    {
+      "generation": 95,
+      "genome_id": 13719,
+      "training_fitness": 95.84989929199219,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.3676000000000001,
+      "mean_fitness": 96.42020416259766,
+      "cached": false
+    },
+    {
+      "generation": 95,
+      "genome_id": 13704,
+      "training_fitness": 94.78499603271484,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.5646999999999993,
+      "mean_fitness": 94.82275390625,
+      "cached": false
+    },
+    {
+      "generation": 95,
+      "genome_id": 13174,
+      "training_fitness": 91.36030578613281,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5176000000000003,
+      "mean_fitness": 90.3053970336914,
+      "cached": true
+    },
+    {
+      "generation": 96,
+      "genome_id": 13476,
+      "training_fitness": 98.241943359375,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.2943000000000005,
+      "mean_fitness": 97.6029281616211,
+      "cached": true
+    },
+    {
+      "generation": 96,
+      "genome_id": 13803,
+      "training_fitness": 98.00223541259766,
+      "catch_rate": 0.98,
+      "mean_catch_time_with_failures": 1.2237,
+      "mean_fitness": 98.70951843261719,
+      "cached": false
+    },
+    {
+      "generation": 96,
+      "genome_id": 13435,
+      "training_fitness": 97.108642578125,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.3669000000000002,
+      "mean_fitness": 95.54271697998047,
+      "cached": true
+    },
+    {
+      "generation": 96,
+      "genome_id": 13839,
+      "training_fitness": 96.97528076171875,
+      "catch_rate": 0.93,
+      "mean_catch_time_with_failures": 1.3824999999999996,
+      "mean_fitness": 93.64269256591797,
+      "cached": false
+    },
+    {
+      "generation": 96,
+      "genome_id": 13796,
+      "training_fitness": 96.53838348388672,
+      "catch_rate": 0.92,
+      "mean_catch_time_with_failures": 1.4879999999999998,
+      "mean_fitness": 92.41339111328125,
+      "cached": false
+    },
+    {
+      "generation": 97,
+      "genome_id": 14024,
+      "training_fitness": 96.50279235839844,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4404,
+      "mean_fitness": 95.30960083007812,
+      "cached": false
+    },
+    {
+      "generation": 97,
+      "genome_id": 13476,
+      "training_fitness": 96.28856658935547,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.2943000000000005,
+      "mean_fitness": 97.6029281616211,
+      "cached": true
+    },
+    {
+      "generation": 97,
+      "genome_id": 13990,
+      "training_fitness": 95.27299499511719,
+      "catch_rate": 0.98,
+      "mean_catch_time_with_failures": 1.3562999999999996,
+      "mean_fitness": 98.2627182006836,
+      "cached": false
+    },
+    {
+      "generation": 97,
+      "genome_id": 13987,
+      "training_fitness": 94.84506225585938,
+      "catch_rate": 0.96,
+      "mean_catch_time_with_failures": 1.5367000000000002,
+      "mean_fitness": 95.83981323242188,
+      "cached": false
+    },
+    {
+      "generation": 97,
+      "genome_id": 13895,
+      "training_fitness": 92.59224700927734,
+      "catch_rate": 0.91,
+      "mean_catch_time_with_failures": 1.5503,
+      "mean_fitness": 91.29966735839844,
+      "cached": false
+    },
+    {
+      "generation": 98,
+      "genome_id": 14162,
+      "training_fitness": 98.58477020263672,
+      "catch_rate": 0.88,
+      "mean_catch_time_with_failures": 1.5225000000000006,
+      "mean_fitness": 88.69960021972656,
+      "cached": false
+    },
+    {
+      "generation": 98,
+      "genome_id": 14171,
+      "training_fitness": 98.20452880859375,
+      "catch_rate": 0.97,
+      "mean_catch_time_with_failures": 1.2662,
+      "mean_fitness": 97.66232299804688,
+      "cached": false
+    },
+    {
+      "generation": 98,
+      "genome_id": 14173,
+      "training_fitness": 97.55784606933594,
+      "catch_rate": 0.93,
+      "mean_catch_time_with_failures": 1.3583000000000007,
+      "mean_fitness": 93.75717163085938,
+      "cached": false
+    },
+    {
+      "generation": 98,
+      "genome_id": 14024,
+      "training_fitness": 97.30128479003906,
+      "catch_rate": 0.95,
+      "mean_catch_time_with_failures": 1.4404,
+      "mean_fitness": 95.30960083007812,
+      "cached": true
+    },
+    {
+      "generation": 98,
+      "genome_id": 14182,
+      "training_fitness": 96.43331909179688,
+      "catch_rate": 0.93,
+      "mean_catch_time_with_failures": 1.3630999999999998,
+      "mean_fitness": 93.74638366699219,
+      "cached": false
+    },
+    {
+      "generation": 99,
+      "genome_id": 14173,
+      "training_fitness": 100.2831039428711,
+      "catch_rate": 0.93,
+      "mean_catch_time_with_failures": 1.3583000000000007,
+      "mean_fitness": 93.75717163085938,
+      "cached": true
+    },
+    {
+      "generation": 99,
+      "genome_id": 14296,
+      "training_fitness": 96.70223236083984,
+      "catch_rate": 0.88,
+      "mean_catch_time_with_failures": 1.4980000000000002,
+      "mean_fitness": 88.71369934082031,
+      "cached": false
+    },
+    {
+      "generation": 99,
+      "genome_id": 14307,
+      "training_fitness": 95.71472930908203,
+      "catch_rate": 0.93,
+      "mean_catch_time_with_failures": 1.4617000000000002,
+      "mean_fitness": 93.43457794189453,
+      "cached": false
+    },
+    {
+      "generation": 99,
+      "genome_id": 14162,
+      "training_fitness": 95.32452392578125,
+      "catch_rate": 0.88,
+      "mean_catch_time_with_failures": 1.5225000000000006,
+      "mean_fitness": 88.69960021972656,
+      "cached": true
+    },
+    {
+      "generation": 99,
+      "genome_id": 13174,
+      "training_fitness": 94.46771240234375,
+      "catch_rate": 0.9,
+      "mean_catch_time_with_failures": 1.5176000000000003,
+      "mean_fitness": 90.3053970336914,
+      "cached": true
+    }
+  ]
+}

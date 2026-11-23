@@ -1,0 +1,67 @@
+{
+  "performance": {
+    "validation_capture_pct": {
+      "mean": 98.33333333333333,
+      "sd": 1.1547005383792517
+    },
+    "evaluation_capture_pct": {
+      "mean": 93.75,
+      "sd": 8.118988160479113
+    },
+    "successful_capture_time_s": {
+      "mean": 1.2589285714285714,
+      "sd": 0.1474970267154449
+    },
+    "minimum_distance_m": {
+      "mean": 0.09311525523662567,
+      "sd": 0.08796587979582973
+    },
+    "failed_minimum_distance_m": {
+      "mean": 0.3855692272384961,
+      "sd": 0.5341207386431893
+    },
+    "fitness": {
+      "mean": 94.28387451171875,
+      "sd": 8.292327880859375
+    },
+    "nodes": {
+      "mean": 4.0,
+      "sd": 1.7320508075688772
+    },
+    "enabled_connections": {
+      "mean": 11.0,
+      "sd": 3.605551275463989
+    },
+    "winner_generation": {
+      "mean": 92.33333333333333,
+      "sd": 1.1547005383792517
+    }
+  },
+  "weights": {
+    "position_pct": {
+      "mean": 45.77492175396432,
+      "sd": 3.2786029473488205
+    },
+    "velocity_pct": {
+      "mean": 37.645289010136935,
+      "sd": 6.134923460295563
+    },
+    "acceleration_pct": {
+      "mean": 16.579789235898737,
+      "sd": 5.705223603296247
+    },
+    "north_same_axis_pct": {
+      "mean": 88.79784466443695,
+      "sd": 14.755853671200194
+    },
+    "east_same_axis_pct": {
+      "mean": 90.09095641218472,
+      "sd": 9.322539067975562
+    },
+    "down_same_axis_pct": {
+      "mean": 94.85195090693978,
+      "sd": 8.864661469464899
+    }
+  },
+  "representative_seed": 30
+}

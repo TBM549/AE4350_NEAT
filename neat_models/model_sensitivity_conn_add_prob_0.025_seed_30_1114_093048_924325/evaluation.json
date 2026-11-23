@@ -1,0 +1,65 @@
+{
+  "seed": 42,
+  "mean_fitness": 100.2463150024414,
+  "environment": {
+    "DT": 0.01,
+    "NUM_ENVS": 256,
+    "MAX_TIMESTEPS": 300,
+    "CATCH_DISTANCE": 0.05,
+    "ATTEMPT_DISTANCE_MULTIPLIER": 4.0,
+    "CATCH_REWARD": 100.0,
+    "DISTANCE_WEIGHT": 5.0,
+    "REWARD_DISTANCE_SCALE": 0.5,
+    "TIME_WEIGHT": 10.0,
+    "DISTANCE_NORM": 2.0,
+    "OBSERVATION_ENCODING": "magnitude_direction",
+    "VELOCITY_NORM": 5.0,
+    "ACCELERATION_NORM": 15.0,
+    "INSECT_BOUNDARY_RADIUS": 10.0,
+    "RANDOMIZE_ON_RESET": true,
+    "PURSUER_CONFIG": {
+      "INITIAL_POS": [
+        2.5,
+        0.0,
+        1.0
+      ],
+      "INITIAL_RADIUS": 0.25,
+      "INITIAL_SPEED": 0.0,
+      "INITIAL_ACCELERATION": 0.0,
+      "MAX_ACCELERATION": 15,
+      "MAX_ACCELERATION_PCT": 0.0,
+      "MAX_SPEED": 7.5,
+      "MAX_SPEED_PCT": 0.0,
+      "ACTUATOR_TAU": 0.05,
+      "ACTUATOR_TAU_PCT": 0.0,
+      "POSITION_NOISE_STD": 0.0,
+      "VELOCITY_NOISE_STD": 0.0,
+      "ACCELERATION_NOISE_STD": 0.0
+    },
+    "EVADER_CONFIG": {
+      "DATASET_PATH": "C:\\Users\\tamar\\OneDrive - Delft University of Technology\\GitRepo\\BioInspired\\moth_dataset\\moth_eval_dataset.npz",
+      "NOISE_STD": 0.0,
+      "FILTER_TYPE": "dataset",
+      "FILTER_PARAMS": {
+        "process_noise": 0.0001,
+        "measurement_noise": 0.01,
+        "pos_window_samples": 10,
+        "vel_window_samples": 5,
+        "vel_from_filtered_pos": true
+      }
+    }
+  },
+  "catch_rate": 0.9921875,
+  "mean_catch_time": 1.082007874015748,
+  "total_attempts": 320,
+  "total_failed_attempts": 65,
+  "total_successful_attempts": 254,
+  "total_unfinished_attempts": 1,
+  "mean_attempts": 1.25,
+  "mean_failed_attempts": 0.25390625,
+  "attempt_episode_rate": 1.0,
+  "mean_first_attempt_time_s": 0.80484375,
+  "attempt_success_rate": 0.79375,
+  "mean_failed_attempt_distance_m": 0.08675689038175803,
+  "mean_failed_attempt_duration_s": 0.06415384615384616
+}
